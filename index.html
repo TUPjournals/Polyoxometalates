@@ -876,6 +876,7 @@ function downloadRIS(idx) {
   if (a.year) ris.push('PY  - ' + a.year);
   ris.push('TI  - ' + (a.title||'').replace(/<[^>]+>/g, ''));
   ris.push('JO  - Polyoxometalates');
+  ris.push('SN  - 2957-9821');
   ris.push('SP  - ' + (a.firstpage || a.doi.replace('10.26599/POM.', '')));
   if (a.volume) ris.push('VL  - ' + a.volume);
   if (a.issue) ris.push('IS  - ' + a.issue);
