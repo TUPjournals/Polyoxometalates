@@ -286,6 +286,11 @@ body {
   border-radius: 10px;
   font-size: 0.74rem;
 }
+.kw-area {
+  background: #fff3e0;
+  color: #e65100;
+  font-weight: 600;
+}
 
 /* ── Detail Panel ── */
 .detail {
@@ -533,6 +538,7 @@ body {
     </div>
     <select class="filter-select" id="yearFilter"><option value="">All Years</option></select>
     <select class="filter-select" id="typeFilter"><option value="">All Types</option></select>
+    <select class="filter-select" id="areaFilter"><option value="">All Research Areas</option></select>
   </div>
 </section>
 
@@ -559,13 +565,14 @@ body {
 </script>
 
 <script>
-const DATA_URL = 'articles_md/articles.json?v=20260924';
+const DATA_URL = 'articles_md/articles.json?v=20260925';
 let allArticles = [];
 let filteredArticles = [];
 
 const $search = document.getElementById('searchInput');
 const $year = document.getElementById('yearFilter');
 const $type = document.getElementById('typeFilter');
+const $area = document.getElementById('areaFilter');
 const $list = document.getElementById('articleList');
 const $stats = document.getElementById('statsRow');
 
@@ -584,13 +591,20 @@ async function loadData() {
 
 /* ── Filters ── */
 function fillFilters() {
-  const years = new Set(), types = new Set();
-  allArticles.forEach(a => { if (a.year) years.add(a.year); if (a.type) types.add(a.type); });
+  const years = new Set(), types = new Set(), areas = new Set();
+  allArticles.forEach(a => { 
+    if (a.year) years.add(a.year); 
+    if (a.type) types.add(a.type); 
+    if (a.research_area) a.research_area.forEach(ar => areas.add(ar));
+  });
   [...years].sort((a,b)=>b-a).forEach(y => {
     const o = document.createElement('option'); o.value = y; o.textContent = y; $year.appendChild(o);
   });
   [...types].sort().forEach(t => {
     const o = document.createElement('option'); o.value = t; o.textContent = t; $type.appendChild(o);
+  });
+  [...areas].sort().forEach(ar => {
+    const o = document.createElement('option'); o.value = ar; o.textContent = ar; $area.appendChild(o);
   });
 }
 
@@ -599,11 +613,12 @@ let currentQuery = '';
 function applyFilters() {
   const q = $search.value.trim();
   currentQuery = q;
-  const yv = $year.value, tv = $type.value;
+  const yv = $year.value, tv = $type.value, av = $area.value;
   filteredArticles = allArticles
     .map(a => {
       if (yv && a.year != yv) return null;
       if (tv && a.type !== tv) return null;
+      if (av && !(a.research_area || []).includes(av)) return null;
       const score = searchScore(a, q);
       if (q && score === 0) return null;
       return { ...a, _score: score, _q: q };
@@ -656,6 +671,7 @@ function searchScore(a, q) {
       { v: a.title || '', w: 10 },
       { v: (a.authors||[]).map(x=>x.name).join(' ') || '', w: 5 },
       { v: (a.keywords||[]).join(' ') || '', w: 4 },
+      { v: (a.research_area||[]).join(' ') || '', w: 3 },
       { v: a.abstract || '', w: 1 },
     ];
     let best = 0;
@@ -703,6 +719,7 @@ function render() {
       </div>
       <div class="card-authors">${shortNames}</div>
       ${kws ? `<div class="card-keywords">${kws}</div>` : ''}
+      ${a.research_area && a.research_area.length ? `<div class="card-keywords"><span style="font-size:0.78rem;color:#666;margin-right:4px;font-weight:600">Research area:</span>${a.research_area.map(ra => `<span class="kw kw-area">${esc(ra)}</span>`).join('')}</div>` : ''}
       ${a.doi ? `<div class="card-doi"><a href="https://doi.org/${a.doi}" target="_blank" onclick="event.stopPropagation()">https://doi.org/${esc(a.doi)}</a></div>` : ''}
       ${a.doi ? `
       <div class="card-cite" onclick="event.stopPropagation()">
@@ -883,6 +900,7 @@ function download(content, filename, mime) {
 $search.addEventListener('input', debounce(applyFilters, 300));
 $year.addEventListener('change', applyFilters);
 $type.addEventListener('change', applyFilters);
+$area.addEventListener('change', applyFilters);
 
 function debounce(fn, ms) {
   let t;
