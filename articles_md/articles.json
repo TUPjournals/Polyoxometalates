@@ -1,0 +1,2500 @@
+[
+  {
+    "doi": "10.26599/POM.2024.9140072",
+    "title": "Single-molecule manipulation of copper nanoclusters for modulating nonlinear optics",
+    "authors": [
+      {
+        "name": "Xuekun Gong"
+      },
+      {
+        "name": "Zhuang-Hua Liu"
+      },
+      {
+        "name": "Qinghua Xu"
+      },
+      {
+        "name": "Lin Wang"
+      },
+      {
+        "name": "Qingxiang Guo"
+      },
+      {
+        "name": "Jian Zhang"
+      },
+      {
+        "name": "Qiao-Hong Li"
+      },
+      {
+        "name": "Wei-Hui Fang"
+      },
+      {
+        "name": "Hui Shen"
+      }
+    ],
+    "affiliations": [
+      "College of Energy Materials and Chemistry,Inner Mongolia,CHINA",
+      "Inner Mongolia University,Inner Mongolia,CHINA",
+      "State Key Laboratory of Structural Chemistry,Fuzhou,Fujian,CHINA",
+      "Fujian Institute of Research on the Structure of Matter Chinese Academy of Sciences (CAS),Fuzhou,Fujian,CHINA",
+      "College of Energy Materials and Chemistry,Inner Mongolia,CHINA",
+      "Inner Mongolia University,Inner Mongolia,CHINA",
+      "State Key Laboratory of Structural Chemistry,Fuzhou,Fujian,CHINA",
+      "Fujian Institute of Research on the Structure of Matter Chinese Academy of Sciences (CAS),Fuzhou,Fujian,CHINA",
+      "College of Chemical Engineering,Hohehot,Inner Mongolia,CHINA",
+      "Inner Mongolia University of Technology,Hohehot,Inner Mongolia,CHINA",
+      "State Key Laboratory of Structural Chemistry,Fuzhou,Fujian,CHINA",
+      "Fujian Institute of Research on the Structure of Matter Chinese Academy of Sciences (CAS),Fuzhou,Fujian,CHINA",
+      "State Key Laboratory of Structural Chemistry,Fuzhou,Fujian,CHINA",
+      "Fujian Institute of Research on the Structure of Matter Chinese Academy of Sciences (CAS),Fuzhou,Fujian,CHINA",
+      "State Key Laboratory of Structural Chemistry,Fuzhou,Fujian,CHINA",
+      "Fujian Institute of Research on the Structure of Matter Chinese Academy of Sciences (CAS),Fuzhou,Fujian,CHINA",
+      "College of Energy Materials and Chemistry,Inner Mongolia,CHINA",
+      "Inner Mongolia University,Inner Mongolia,CHINA"
+    ],
+    "keywords": [
+      "copper",
+      "cluster compounds",
+      "structure",
+      "nonlinear optics",
+      "single molecule manipulation"
+    ],
+    "abstract": "The detailed elucidation of structure–property relationships at the molecular level in metal nanoclusters is highly valuable for advancing structure design and optimizing performance. However, effectively manipulating metal nanoclusters’ physical and chemical properties at the single-molecule level remains a significant challenge. Here, we demonstrate that single-molecule chemistry can effectively control the third-order nonlinear optical (NLO) performance of structurally precise copper nanoclusters. We present two analogous clusters, [Cu25(RS)18H10]3− (Cu25) and [Cu26(RS)18H10(PPh3)]2− (Cu26, where RSH is 2-fluorobenzenethiol), whose structures were determined in this study. Both clusters feature a Cu13 core in a centered cuboctahedron configuration with similar shell structures. However, Cu26 includes an additional PPh3Cu+ unit. This single structural difference significantly changes their properties, including optical characteristics and stability. Compared to Cu25, Cu26 exhibits enhanced optical limiting (OL) activity. Theoretical calculations indicate that the substantial electron transfer from the PPh3 ligand to the metal core enhances the NLO performance of Cu26. This study highlights the potential of structurally precise copper nanoclusters as OL materials and advances the understanding of nanoparticulate material fabrication using a single-molecule strategy.",
+    "volume": "4",
+    "issue": "1",
+    "firstpage": "9140072",
+    "lastpage": "",
+    "year": "2025",
+    "publication_date": "2025/3/1",
+    "online_date": "2024/7/4",
+    "received": "18 January 2024",
+    "revised": "14 May 2024",
+    "accepted": "22 June 2024",
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/POM.2024.9140072",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/POM.2024.9140072.pdf",
+    "internal_id": "",
+    "publisher": "清华大学出版社",
+    "issn": "2957-9821",
+    "language": "en",
+    "bibtex": "@article{Gong2025,\nauthor ={Xuekun Gong and Zhuang-Hua Liu and Qinghua Xu and Lin Wang and Qingxiang Guo and Jian Zhang and Qiao-Hong Li and Wei-Hui Fang and Hui Shen},\ntitle ={Single-molecule manipulation of copper nanoclusters for modulating nonlinear optics},\nyear ={2025},\njournal ={Polyoxometalates},\nvolume ={4},\nnumber ={1},\npages ={9140072},\nkeywords ={copper, cluster compounds, structure, nonlinear optics, single molecule manipulation},\nurl ={https://www.sciopen.com/article/10.26599/POM.2024.9140072},\ndoi ={10.26599/POM.2024.9140072},\nabstract ={The detailed elucidation of structure–property relationships at the molecular level in metal nanoclusters is highly valuable for advancing structure design and optimizing performance. However, effectively manipulating metal nanoclusters’ physical and chemical properties at the single-molecule level remains a significant challenge. Here, we demonstrate that single-molecule chemistry can effectively control the third-order nonlinear optical (NLO) performance of structurally precise copper nanoclusters. We present two analogous clusters, [Cu25(RS)18H10]3− (Cu25) and [Cu26(RS)18H10(PPh3)]2− (Cu26, where RSH is 2-fluorobenzenethiol), whose structures were determined in this study. Both clusters feature a Cu13 core in a centered cuboctahedron configuration with similar shell structures. However, Cu26 includes an additional PPh3Cu+ unit. This single structural difference significantly changes their properties, including optical characteristics and stability. Compared to Cu25, Cu26 exhibits enhanced optical limiting (OL) activity. Theoretical calculations indicate that the substantial electron transfer from the PPh3 ligand to the metal core enhances the NLO performance of Cu26. This study highlights the potential of structurally precise copper nanoclusters as OL materials and advances the understanding of nanoparticulate material fabrication using a single-molecule strategy.}\n}"
+  },
+  {
+    "doi": "10.26599/POM.2024.9140073",
+    "title": "Room temperature self-assembly and nonenzymatic electrochemical sensing performance of transition metal-embedded wheel-shaped tungstophosphates",
+    "authors": [
+      {
+        "name": "Wen-Da Liu"
+      },
+      {
+        "name": "Hao-Tian Zhu"
+      },
+      {
+        "name": "Xue Zhang"
+      },
+      {
+        "name": "Fang Su"
+      },
+      {
+        "name": "Xiao-Jing Sang"
+      },
+      {
+        "name": "Xiao-Lan Zhang"
+      },
+      {
+        "name": "Lan-Cui Zhang"
+      }
+    ],
+    "affiliations": [
+      "School of Chemistry and Chemical Engineering,Dalian,Liaoning,CHINA",
+      "Liaoning Normal University,Dalian,Liaoning,CHINA",
+      "School of Chemistry and Chemical Engineering,Dalian,Liaoning,CHINA",
+      "Liaoning Normal University,Dalian,Liaoning,CHINA",
+      "School of Chemistry and Chemical Engineering,Dalian,Liaoning,CHINA",
+      "Liaoning Normal University,Dalian,Liaoning,CHINA",
+      "School of Chemistry and Chemical Engineering,Dalian,Liaoning,CHINA",
+      "Liaoning Normal University,Dalian,Liaoning,CHINA",
+      "School of Chemistry and Chemical Engineering,Dalian,Liaoning,CHINA",
+      "Liaoning Normal University,Dalian,Liaoning,CHINA",
+      "School of Chemistry and Chemical Engineering,Dalian,Liaoning,CHINA",
+      "Liaoning Normal University,Dalian,Liaoning,CHINA",
+      "School of Chemistry and Chemical Engineering,Dalian,Liaoning,CHINA",
+      "Liaoning Normal University,Dalian,Liaoning,CHINA"
+    ],
+    "keywords": [
+      "polyoxometalate",
+      "wheel-type",
+      "room-temperature synthesis",
+      "electrochemical sensing",
+      "H&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt; detection"
+    ],
+    "abstract": "Under heat-free conditions, three wheel-shaped [P8W48O184]40− ({P8W48})-based polyoxometalates (POMs) were controllably synthesized via the reaction of a hexavacant Dawson-type tungstophosphate, K12[H2P2W12O48]·24H2O (K-{P2W12}), with simple transition metal (TM) (TM = Mn, Co, and Ni) salts in room temperature aqueous solutions. The molecular formulas of the POMs were Na24[Mn8(H2O)32P8W48O184]·58H2O (1), K4Na16H4[Co8(H2O)32P8W48O184]·76H2O (2), and Na20H4[Ni8(H2O)32P8W48O184]·72H2O (3). It should be noted that eight TM ions introduced into each POM skeleton were connected in a {P8W48} wheel. To the best of our knowledge, this is the first time that the self-assembly of 3d-TM-{P8W48} with the internal coordination of all metals in an aqueous solution was achieved without heating. Compounds 1–3 were characterized by elemental, single-crystal X-ray diffraction, and other physical and spectral analyses, and their nonenzymatic electrochemical sensing performance for hydrogen peroxide (H2O2) was investigated by cyclic voltammetry. Compared with K28Li5[H7P8W48O184]·92H2O without 3d-TM and most reported POM electrode materials, the proposed 3d-TM-{P8W48} POMs exhibited higher stability and better activity during H2O2 detection. Composite films formed using 1–3 and chitosan (CS) on a glassy carbon electrode exhibited a high sensitivity (1.21 μA∙mmol∙L−1), low detection limit (0.02 mmol∙L−1), and rapid response time (2 s) for H2O2 detection. The study findings show that the combination of CS and 1–3 provides an alternative to soluble TM-{P8W48} compounds, which are not reusable in H2O2 detection systems.",
+    "volume": "4",
+    "issue": "1",
+    "firstpage": "9140073",
+    "lastpage": "",
+    "year": "2025",
+    "publication_date": "2025/3/1",
+    "online_date": "2024/7/29",
+    "received": "31 January 2024",
+    "revised": "20 June 2024",
+    "accepted": "04 July 2024",
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/POM.2024.9140073",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/POM.2024.9140073.pdf",
+    "internal_id": "",
+    "publisher": "清华大学出版社",
+    "issn": "2957-9821",
+    "language": "en",
+    "bibtex": "@article{Liu2025,\nauthor ={Wen-Da Liu and Hao-Tian Zhu and Xue Zhang and Fang Su and Xiao-Jing Sang and Xiao-Lan Zhang and Lan-Cui Zhang},\ntitle ={Room temperature self-assembly and nonenzymatic electrochemical sensing performance of transition metal-embedded wheel-shaped tungstophosphates},\nyear ={2025},\njournal ={Polyoxometalates},\nvolume ={4},\nnumber ={1},\npages ={9140073},\nkeywords ={polyoxometalate, wheel-type, room-temperature synthesis, electrochemical sensing, H&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt; detection},\nurl ={https://www.sciopen.com/article/10.26599/POM.2024.9140073},\ndoi ={10.26599/POM.2024.9140073},\nabstract ={Under heat-free conditions, three wheel-shaped [P8W48O184]40− ({P8W48})-based polyoxometalates (POMs) were controllably synthesized via the reaction of a hexavacant Dawson-type tungstophosphate, K12[H2P2W12O48]·24H2O (K-{P2W12}), with simple transition metal (TM) (TM = Mn, Co, and Ni) salts in room temperature aqueous solutions. The molecular formulas of the POMs were Na24[Mn8(H2O)32P8W48O184]·58H2O (1), K4Na16H4[Co8(H2O)32P8W48O184]·76H2O (2), and Na20H4[Ni8(H2O)32P8W48O184]·72H2O (3). It should be noted that eight TM ions introduced into each POM skeleton were connected in a {P8W48} wheel. To the best of our knowledge, this is the first time that the self-assembly of 3d-TM-{P8W48} with the internal coordination of all metals in an aqueous solution was achieved without heating. Compounds 1–3 were characterized by elemental, single-crystal X-ray diffraction, and other physical and spectral analyses, and their nonenzymatic electrochemical sensing performance for hydrogen peroxide (H2O2) was investigated by cyclic voltammetry. Compared with K28Li5[H7P8W48O184]·92H2O without 3d-TM and most reported POM electrode materials, the proposed 3d-TM-{P8W48} POMs exhibited higher stability and better activity during H2O2 detection. Composite films formed using 1–3 and chitosan (CS) on a glassy carbon electrode exhibited a high sensitivity (1.21 μA∙mmol∙L−1), low detection limit (0.02 mmol∙L−1), and rapid response time (2 s) for H2O2 detection. The study findings show that the combination of CS and 1–3 provides an alternative to soluble TM-{P8W48} compounds, which are not reusable in H2O2 detection systems.}\n}"
+  },
+  {
+    "doi": "10.26599/POM.2024.9140074",
+    "title": "Study on the regulatory mechanisms of mitochondrial biosynthesis by polyoxometalates",
+    "authors": [
+      {
+        "name": "Shan Lei"
+      },
+      {
+        "name": "Bingnian Chen"
+      },
+      {
+        "name": "Li Wang"
+      },
+      {
+        "name": "Jian Li"
+      }
+    ],
+    "affiliations": [
+      "College of Ocean Food and Bioengineering,CHINA",
+      "Jimei University, 361021,CHINA",
+      "Xiang’An Hospital of Xiamen University,Xiamen,Fujian,CHINA",
+      "College of Ocean Food and Bioengineering,CHINA",
+      "Jimei University, 361021,CHINA",
+      "College of Ocean Food and Bioengineering,CHINA",
+      "Jimei University, 361021,CHINA"
+    ],
+    "keywords": [
+      "polyoxometalates",
+      "mitochondrial",
+      "antioxidant",
+      "antidiabetic",
+      "antitumor"
+    ],
+    "abstract": "In recent years, polyoxometalates (POMs) have been extensively researched for their potential in treating diabetes, tumors, cancer, inflammation, and other diseases, both in vitro and in vivo. Their primary therapeutic mechanisms are related to the generation of reactive oxygen species (ROS), leading to oxidative stress. Because mitochondria are the main site of ROS production, POM treatment mechanisms may be associated with mitochondrial biosynthesis. This study explores one of the mechanisms by which POMs impact diabetes mellitus, focusing on the increase in ROS and the resulting oxidative stress. Additionally, POMs have been preliminarily studied for their antioxidant and antitumor properties in the treatment of diabetes mellitus and tumors. The antioxidant and antitumor properties of POMs are promising for future therapeutic drugs. By examining oxidative stress and its impact on various biomolecules, POMs have been recognized as a drug therapy mechanism closely linked to mitochondria. Investigating the relationship between POMs and mitochondrial biosynthesis, as well as their impact on mitochondria, provides a basis for future in-depth studies on the role of POMs in treating tumors, diabetes, and other diseases.",
+    "volume": "4",
+    "issue": "1",
+    "firstpage": "9140074",
+    "lastpage": "",
+    "year": "2025",
+    "publication_date": "2025/3/1",
+    "online_date": "2024/8/23",
+    "received": "12 May 2024",
+    "revised": "13 July 2024",
+    "accepted": "31 July 2024",
+    "type": "Review",
+    "url": "https://www.sciopen.com/article/10.26599/POM.2024.9140074",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/POM.2024.9140074.pdf",
+    "internal_id": "",
+    "publisher": "清华大学出版社",
+    "issn": "2957-9821",
+    "language": "en",
+    "bibtex": "@article{Lei2025,\nauthor ={Shan Lei and Bingnian Chen and Li Wang and Jian Li},\ntitle ={Study on the regulatory mechanisms of mitochondrial biosynthesis by polyoxometalates},\nyear ={2025},\njournal ={Polyoxometalates},\nvolume ={4},\nnumber ={1},\npages ={9140074},\nkeywords ={polyoxometalates, mitochondrial, antioxidant, antidiabetic, antitumor},\nurl ={https://www.sciopen.com/article/10.26599/POM.2024.9140074},\ndoi ={10.26599/POM.2024.9140074},\nabstract ={In recent years, polyoxometalates (POMs) have been extensively researched for their potential in treating diabetes, tumors, cancer, inflammation, and other diseases, both in vitro and in vivo. Their primary therapeutic mechanisms are related to the generation of reactive oxygen species (ROS), leading to oxidative stress. Because mitochondria are the main site of ROS production, POM treatment mechanisms may be associated with mitochondrial biosynthesis. This study explores one of the mechanisms by which POMs impact diabetes mellitus, focusing on the increase in ROS and the resulting oxidative stress. Additionally, POMs have been preliminarily studied for their antioxidant and antitumor properties in the treatment of diabetes mellitus and tumors. The antioxidant and antitumor properties of POMs are promising for future therapeutic drugs. By examining oxidative stress and its impact on various biomolecules, POMs have been recognized as a drug therapy mechanism closely linked to mitochondria. Investigating the relationship between POMs and mitochondrial biosynthesis, as well as their impact on mitochondria, provides a basis for future in-depth studies on the role of POMs in treating tumors, diabetes, and other diseases.}\n}"
+  },
+  {
+    "doi": "10.26599/POM.2024.9140076",
+    "title": "Polyoxovanadate-modified SnO&lt;sub&gt;2&lt;/sub&gt; electron transport layer for perovskite photodetectors",
+    "authors": [
+      {
+        "name": "Ziting Liu"
+      },
+      {
+        "name": "Yijia Hao"
+      },
+      {
+        "name": "Jing Zhang"
+      },
+      {
+        "name": "Yi He"
+      },
+      {
+        "name": "Weilin Chen"
+      }
+    ],
+    "affiliations": [
+      "Key Laboratory of Polyoxometalate and Reticular Material Chemistry of Ministry of Education,CHINA",
+      "Faculty of Chemistry,CHINA",
+      "Northeast Normal University, 130024,CHINA",
+      "Key Laboratory of Polyoxometalate and Reticular Material Chemistry of Ministry of Education,CHINA",
+      "Faculty of Chemistry,CHINA",
+      "Northeast Normal University, 130024,CHINA",
+      "Key Laboratory of Polyoxometalate and Reticular Material Chemistry of Ministry of Education,CHINA",
+      "Faculty of Chemistry,CHINA",
+      "Northeast Normal University, 130024,CHINA",
+      "Key Laboratory of Polyoxometalate and Reticular Material Chemistry of Ministry of Education,CHINA",
+      "Faculty of Chemistry,CHINA",
+      "Northeast Normal University, 130024,CHINA",
+      "Key Laboratory of Polyoxometalate and Reticular Material Chemistry of Ministry of Education,CHINA",
+      "Faculty of Chemistry,CHINA",
+      "Northeast Normal University, 130024,CHINA"
+    ],
+    "keywords": [
+      "polyoxometalates",
+      "perovskite",
+      "photodetector",
+      "polyoxovanadates",
+      "energy level"
+    ],
+    "abstract": "SnO2 is widely used in perovskite photodetectors as an electron transport layer material. The matching of the energy levels of SnO2 and perovskite is important in carrier transport. Polyoxovanadates (POVs), as semiconductor-like molecules, exhibit good redox and excellent optical properties, which can regulate the energy band structure of SnO2. Here, K5MnV11O32·10H2O (MnV11), K7MnV13O38·18H2O (MnV13), (NH4)8[V19O41(OH)9]·11H2O (V19), and K10[V34O82]·20H2O (V34) were used to modify an SnO2 colloidal solution. Energy level tests demonstrated that the conduction band potential (ECB) of MnV13-modified SnO2 increased from −4.43 to −4.03 eV, which matched more with the energy level of perovskite. This facilitated the extraction and transmission of photogenerated carriers. X-ray diffraction showed that POV-modified SnO2 exhibited better crystallinity. Scanning electron microscopy revealed that the grain size of perovskite increased to 580 nm after modification using MnV13. The final results showed that the MnV13-modified perovskite photodetector demonstrated the best efficiency. The photocurrent of the photodetector increased from 26 to 80 μA, and its stability was good. After 720 h, the normalized current values of unencapsulated devices on the MnV13@SnO2 substrate were maintained at more than 70% of the initial values. The study findings show that introducing POVs into photodetectors is a potential strategy for optimizing the performance of photovoltaic devices.",
+    "volume": "4",
+    "issue": "1",
+    "firstpage": "9140076",
+    "lastpage": "",
+    "year": "2025",
+    "publication_date": "2025/3/1",
+    "online_date": "2024/8/26",
+    "received": "27 May 2024",
+    "revised": "03 August 2024",
+    "accepted": "09 August 2024",
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/POM.2024.9140076",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/POM.2024.9140076.pdf",
+    "internal_id": "",
+    "publisher": "清华大学出版社",
+    "issn": "2957-9821",
+    "language": "en",
+    "bibtex": "@article{Liu2025,\nauthor ={Ziting Liu and Yijia Hao and Jing Zhang and Yi He and Weilin Chen},\ntitle ={Polyoxovanadate-modified SnO&lt;sub&gt;2&lt;/sub&gt; electron transport layer for perovskite photodetectors},\nyear ={2025},\njournal ={Polyoxometalates},\nvolume ={4},\nnumber ={1},\npages ={9140076},\nkeywords ={polyoxometalates, perovskite, photodetector, polyoxovanadates, energy level},\nurl ={https://www.sciopen.com/article/10.26599/POM.2024.9140076},\ndoi ={10.26599/POM.2024.9140076},\nabstract ={SnO2 is widely used in perovskite photodetectors as an electron transport layer material. The matching of the energy levels of SnO2 and perovskite is important in carrier transport. Polyoxovanadates (POVs), as semiconductor-like molecules, exhibit good redox and excellent optical properties, which can regulate the energy band structure of SnO2. Here, K5MnV11O32·10H2O (MnV11), K7MnV13O38·18H2O (MnV13), (NH4)8[V19O41(OH)9]·11H2O (V19), and K10[V34O82]·20H2O (V34) were used to modify an SnO2 colloidal solution. Energy level tests demonstrated that the conduction band potential (ECB) of MnV13-modified SnO2 increased from −4.43 to −4.03 eV, which matched more with the energy level of perovskite. This facilitated the extraction and transmission of photogenerated carriers. X-ray diffraction showed that POV-modified SnO2 exhibited better crystallinity. Scanning electron microscopy revealed that the grain size of perovskite increased to 580 nm after modification using MnV13. The final results showed that the MnV13-modified perovskite photodetector demonstrated the best efficiency. The photocurrent of the photodetector increased from 26 to 80 μA, and its stability was good. After 720 h, the normalized current values of unencapsulated devices on the MnV13@SnO2 substrate were maintained at more than 70% of the initial values. The study findings show that introducing POVs into photodetectors is a potential strategy for optimizing the performance of photovoltaic devices.}\n}"
+  },
+  {
+    "doi": "10.26599/POM.2024.9140077",
+    "title": "Rare-earth-induced peroxo-phosphotungstates: Enhanced proton conductivity in corresponding membranes",
+    "authors": [
+      {
+        "name": "Qianqian Shang"
+      },
+      {
+        "name": "Keqin Shen"
+      },
+      {
+        "name": "Dongyan Zhao"
+      },
+      {
+        "name": "Xiaoyue Wang"
+      },
+      {
+        "name": "Yuting Wei"
+      },
+      {
+        "name": "Haiying Wang"
+      },
+      {
+        "name": "Guan Wang"
+      },
+      {
+        "name": "Dongdi Zhang"
+      },
+      {
+        "name": "Jingyang Niu"
+      }
+    ],
+    "affiliations": [
+      "Henan Key Laboratory of Polyoxometalate Chemistry,CHINA",
+      "College of Chemistry and Chemical Engineering,CHINA",
+      "Henan University, 475004,CHINA",
+      "Henan Key Laboratory of Polyoxometalate Chemistry,CHINA",
+      "College of Chemistry and Chemical Engineering,CHINA",
+      "Henan University, 475004,CHINA",
+      "Henan Key Laboratory of Polyoxometalate Chemistry,CHINA",
+      "College of Chemistry and Chemical Engineering,CHINA",
+      "Henan University, 475004,CHINA",
+      "Henan Key Laboratory of Polyoxometalate Chemistry,CHINA",
+      "College of Chemistry and Chemical Engineering,CHINA",
+      "Henan University, 475004,CHINA",
+      "Henan Key Laboratory of Polyoxometalate Chemistry,CHINA",
+      "College of Chemistry and Chemical Engineering,CHINA",
+      "Henan University, 475004,CHINA",
+      "Henan Key Laboratory of Polyoxometalate Chemistry,CHINA",
+      "College of Chemistry and Chemical Engineering,CHINA",
+      "Henan University, 475004,CHINA",
+      "Henan Key Laboratory of Polyoxometalate Chemistry,CHINA",
+      "College of Chemistry and Chemical Engineering,CHINA",
+      "Henan University, 475004,CHINA",
+      "Henan Key Laboratory of Polyoxometalate Chemistry,CHINA",
+      "College of Chemistry and Chemical Engineering,CHINA",
+      "Henan University, 475004,CHINA",
+      "Henan Key Laboratory of Polyoxometalate Chemistry,CHINA",
+      "College of Chemistry and Chemical Engineering,CHINA",
+      "Henan University, 475004,CHINA"
+    ],
+    "keywords": [
+      "peroxo-phosphotungstate",
+      "rare-earth",
+      "proton conductivity"
+    ],
+    "abstract": "Two rare-earth-induced peroxo-polyoxotungstates (peroxo-POTs), namely, two-dimensional [Ln2(H2O)4(OH)P2W6(O2)4O23]3− (2D-Ln2, Ln = Pr, Sm) and one-dimensional [Ln(H2O)4P4W6(O2)6(OH)4O24]5− (1D-Ln, Ln = Gd, Tb, Dy, Ho), were successfully prepared by similar synthesis methods based on that used to synthesize {P3W6(O2)6} clusters. However, although the original {P3W6(O2)6} building block remained, a completely new structure was achieved in these two lanthanide-based peroxo-POT derivatives that was induced by the rare-earth cations. 2D-Ln2 was composed of {P2W6(O2)4} polyanion units linked by replacing {PW3(O2)3} with {PW3(O2)2}, while 1D-Ln was composed of two symmetric {P2W3(O2)3} cores connected by rare-earth cations. Furthermore, the proton conductivities of 2D-Ln2 and 1D-Ln were investigated. At 65 °C and 95% relative humidity (RH), 2D-Pr2 and 1D-Tb exhibited conductivities of 2.62 × 10−3 and 2.78 × 10−3 S∙cm−1, respectively, while the conductivities of their corresponding Nafion membranes were considerably higher, with values of 1.65 × 10−1 and 1.44 × 10−1 S∙cm−1, respectively, under the same conditions.",
+    "volume": "4",
+    "issue": "1",
+    "firstpage": "9140077",
+    "lastpage": "",
+    "year": "2025",
+    "publication_date": "2025/3/1",
+    "online_date": "2024/9/24",
+    "received": "26 June 2024",
+    "revised": "09 August 2024",
+    "accepted": "27 August 2024",
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/POM.2024.9140077",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/POM.2024.9140077.pdf",
+    "internal_id": "",
+    "publisher": "清华大学出版社",
+    "issn": "2957-9821",
+    "language": "en",
+    "bibtex": "@article{Shang2025,\nauthor ={Qianqian Shang and Keqin Shen and Dongyan Zhao and Xiaoyue Wang and Yuting Wei and Haiying Wang and Guan Wang and Dongdi Zhang and Jingyang Niu},\ntitle ={Rare-earth-induced peroxo-phosphotungstates: Enhanced proton conductivity in corresponding membranes},\nyear ={2025},\njournal ={Polyoxometalates},\nvolume ={4},\nnumber ={1},\npages ={9140077},\nkeywords ={peroxo-phosphotungstate, rare-earth, proton conductivity},\nurl ={https://www.sciopen.com/article/10.26599/POM.2024.9140077},\ndoi ={10.26599/POM.2024.9140077},\nabstract ={Two rare-earth-induced peroxo-polyoxotungstates (peroxo-POTs), namely, two-dimensional [Ln2(H2O)4(OH)P2W6(O2)4O23]3− (2D-Ln2, Ln = Pr, Sm) and one-dimensional [Ln(H2O)4P4W6(O2)6(OH)4O24]5− (1D-Ln, Ln = Gd, Tb, Dy, Ho), were successfully prepared by similar synthesis methods based on that used to synthesize {P3W6(O2)6} clusters. However, although the original {P3W6(O2)6} building block remained, a completely new structure was achieved in these two lanthanide-based peroxo-POT derivatives that was induced by the rare-earth cations. 2D-Ln2 was composed of {P2W6(O2)4} polyanion units linked by replacing {PW3(O2)3} with {PW3(O2)2}, while 1D-Ln was composed of two symmetric {P2W3(O2)3} cores connected by rare-earth cations. Furthermore, the proton conductivities of 2D-Ln2 and 1D-Ln were investigated. At 65 °C and 95% relative humidity (RH), 2D-Pr2 and 1D-Tb exhibited conductivities of 2.62 × 10−3 and 2.78 × 10−3 S∙cm−1, respectively, while the conductivities of their corresponding Nafion membranes were considerably higher, with values of 1.65 × 10−1 and 1.44 × 10−1 S∙cm−1, respectively, under the same conditions.}\n}"
+  },
+  {
+    "doi": "10.26599/POM.2024.9140079",
+    "title": "Facile construction of polyoxometalate-modified polyaryletherketone-based hybrid membranes with enhanced proton conductivity",
+    "authors": [
+      {
+        "name": "Bo Hu"
+      },
+      {
+        "name": "Qiuchen Du"
+      },
+      {
+        "name": "Yang Yang"
+      },
+      {
+        "name": "Dengdeng Li"
+      },
+      {
+        "name": "Jiawang Fu"
+      },
+      {
+        "name": "Bailing Liu"
+      },
+      {
+        "name": "Hong-Ying Zang"
+      },
+      {
+        "name": "Yangguang Li"
+      },
+      {
+        "name": "Haiming Xie"
+      },
+      {
+        "name": "Zhongmin Su"
+      }
+    ],
+    "affiliations": [
+      "Department of Chemistry,CHINA",
+      "Northeast Normal University, 130024,CHINA",
+      "Department of Chemistry and Environmental Engineering,CHINA",
+      "Changchun University of Science and Technology, 130022,CHINA",
+      "Department of Chemistry and Environmental Engineering,CHINA",
+      "Changchun University of Science and Technology, 130022,CHINA",
+      "Department of Chemistry and Environmental Engineering,CHINA",
+      "Changchun University of Science and Technology, 130022,CHINA",
+      "Department of Chemistry and Environmental Engineering,CHINA",
+      "Changchun University of Science and Technology, 130022,CHINA",
+      "Department of Chemistry and Environmental Engineering,CHINA",
+      "Changchun University of Science and Technology, 130022,CHINA",
+      "Chongqing Research Institute,CHINA",
+      "Changchun University of Science and Technology, 130022,CHINA",
+      "Department of Chemistry,CHINA",
+      "Northeast Normal University, 130024,CHINA",
+      "Department of Chemistry,CHINA",
+      "Northeast Normal University, 130024,CHINA",
+      "Department of Chemistry,CHINA",
+      "Northeast Normal University, 130024,CHINA",
+      "State Key Laboratory of Supramolecular Structure and Materials,Jilin,CHINA",
+      "College of Chemistry,Jilin,CHINA",
+      "Jilin University,Changchun,Jilin,CHINA"
+    ],
+    "keywords": [
+      "polyoxometalates",
+      "sulfonated polyaryletherketone",
+      "proton exchange membrane",
+      "proton conduction"
+    ],
+    "abstract": "The development of novel proton exchange membranes (PEMs) with high proton conductivity and good mechanical performance as alternatives to Nafion is crucial. Polyoxometalates (POMs), a type of solid-state nanoclusters, possess high proton conductivity and good structural stability, making them suitable functional inorganic fillers to improve the performance of PEMs. Herein, the Keggin-type POM H3PW12O40·nH2O (PW12) was introduced into sulfonated polyaryletherketone (SPAEK) with closely packed and flexible side chains to construct hybrid membranes (SPAEK-PW12-x%, x = 5, 10, 13, 15). Because of its structural characteristics, the nanosized PW12 induced precise hybridization of the nanophase structure of this ionomeric polymer and the formation of proton transport channels. Additionally, the hydrogen-bonding networks formed by PW12 and sulfonic acid groups increased the proton conductivity and mechanical strength of the resulting hybrid PEMs and improved the close-packed structure of the PEMs to achieve an appropriate balance between conductivity and fuel permeation. In particular, SPAEK-PW12-13% achieved an enhanced proton conductivity of 0.167 S∙cm−1 at 80 °C, which was 2.2 times greater than that of the pristine membrane. Moreover, the mechanical properties, chemical stability, resistance to methanol penetration, and ionic selectivity of the hybrid membrane were significantly improved upon addition of a moderate amount of PW12. This work provides an approach for the design and development of new-generation organic–inorganic hybrid membranes through precise hybridization of POMs.",
+    "volume": "4",
+    "issue": "1",
+    "firstpage": "9140079",
+    "lastpage": "",
+    "year": "2025",
+    "publication_date": "2025/3/1",
+    "online_date": "2024/10/8",
+    "received": "30 July 2024",
+    "revised": "31 August 2024",
+    "accepted": "11 September 2024",
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/POM.2024.9140079",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/POM.2024.9140079.pdf",
+    "internal_id": "",
+    "publisher": "清华大学出版社",
+    "issn": "2957-9821",
+    "language": "en",
+    "bibtex": "@article{Hu2025,\nauthor ={Bo Hu and Qiuchen Du and Yang Yang and Dengdeng Li and Jiawang Fu and Bailing Liu and Hong-Ying Zang and Yangguang Li and Haiming Xie and Zhongmin Su},\ntitle ={Facile construction of polyoxometalate-modified polyaryletherketone-based hybrid membranes with enhanced proton conductivity},\nyear ={2025},\njournal ={Polyoxometalates},\nvolume ={4},\nnumber ={1},\npages ={9140079},\nkeywords ={polyoxometalates, sulfonated polyaryletherketone, proton exchange membrane, proton conduction},\nurl ={https://www.sciopen.com/article/10.26599/POM.2024.9140079},\ndoi ={10.26599/POM.2024.9140079},\nabstract ={The development of novel proton exchange membranes (PEMs) with high proton conductivity and good mechanical performance as alternatives to Nafion is crucial. Polyoxometalates (POMs), a type of solid-state nanoclusters, possess high proton conductivity and good structural stability, making them suitable functional inorganic fillers to improve the performance of PEMs. Herein, the Keggin-type POM H3PW12O40·nH2O (PW12) was introduced into sulfonated polyaryletherketone (SPAEK) with closely packed and flexible side chains to construct hybrid membranes (SPAEK-PW12-x%, x = 5, 10, 13, 15). Because of its structural characteristics, the nanosized PW12 induced precise hybridization of the nanophase structure of this ionomeric polymer and the formation of proton transport channels. Additionally, the hydrogen-bonding networks formed by PW12 and sulfonic acid groups increased the proton conductivity and mechanical strength of the resulting hybrid PEMs and improved the close-packed structure of the PEMs to achieve an appropriate balance between conductivity and fuel permeation. In particular, SPAEK-PW12-13% achieved an enhanced proton conductivity of 0.167 S∙cm−1 at 80 °C, which was 2.2 times greater than that of the pristine membrane. Moreover, the mechanical properties, chemical stability, resistance to methanol penetration, and ionic selectivity of the hybrid membrane were significantly improved upon addition of a moderate amount of PW12. This work provides an approach for the design and development of new-generation organic–inorganic hybrid membranes through precise hybridization of POMs.}\n}"
+  },
+  {
+    "doi": "10.26599/POM.2024.9140081",
+    "title": "Supramolecular assembly of covalently modified Anderson-type polyoxometalates and crown ethers towards &lt;i&gt;pseudo&lt;/i&gt;-rotaxane structures",
+    "authors": [
+      {
+        "name": "Yi-An Yin"
+      },
+      {
+        "name": "Wu-Ji Chen"
+      },
+      {
+        "name": "Chun-Yan Liu"
+      },
+      {
+        "name": "Meng-Meng Zhang"
+      },
+      {
+        "name": "Chang-Gen Lin"
+      },
+      {
+        "name": "Haralampos N. Miras"
+      },
+      {
+        "name": "Yu-Fei Song"
+      }
+    ],
+    "affiliations": [
+      "State Key Laboratory of Chemical Resource Engineering, College of Chemistry,CHINA",
+      "Beijing University of Chemical Technology, 100029,CHINA",
+      "State Key Laboratory of Chemical Resource Engineering, College of Chemistry,CHINA",
+      "Beijing University of Chemical Technology, 100029,CHINA",
+      "State Key Laboratory of Chemical Resource Engineering, College of Chemistry,CHINA",
+      "Beijing University of Chemical Technology, 100029,CHINA",
+      "State Key Laboratory of Chemical Resource Engineering, College of Chemistry,CHINA",
+      "Beijing University of Chemical Technology, 100029,CHINA",
+      "State Key Laboratory of Chemical Resource Engineering, College of Chemistry,CHINA",
+      "Beijing University of Chemical Technology, 100029,CHINA",
+      "School of Chemistry,UNITED KINGDOM",
+      "The University of Glasgow,UNITED KINGDOM",
+      "State Key Laboratory of Chemical Resource Engineering, College of Chemistry,CHINA",
+      "Beijing University of Chemical Technology, 100029,CHINA"
+    ],
+    "keywords": [
+      "polyoxometalate",
+      "supramolecular assembly",
+      "organic-inorganic hybrid",
+      "crown ether",
+      "rotaxane"
+    ],
+    "abstract": "The supramolecular assembly of a series of covalently modified Anderson-type polyoxometalates (POMs) and 18-crown-6 ethers was investigated for the first time. Seven new POM–crown ether complexes were prepared by varying the countercations and the modification mode of the Anderson clusters, and they were fully characterized by single-crystal X-ray diffraction, electrospray ionization time-of-flight mass spectrometry (ESI–TOF–MS), 1H nuclear magnetic resonance (NMR), etc. Alkali metal cations within the cavities of the crown ethers served as supercations to bind to the POM hybrids, thereby forming supramolecular assemblies with different architectures and compositions. More interestingly, five of the seven POM–crown ether complexes possessed novel pseudo-rotaxane structures, which were obtained by changing the modification mode of the Anderson clusters from symmetric to asymmetric. These pseudo-rotaxanes have not been reported previously and are considered important intermediates in the construction of POM-based supramolecular architectures with complementary structural and chemical properties.",
+    "volume": "4",
+    "issue": "1",
+    "firstpage": "9140081",
+    "lastpage": "",
+    "year": "2025",
+    "publication_date": "2025/3/1",
+    "online_date": "2024/9/13",
+    "received": "27 June 2024",
+    "revised": "01 August 2024",
+    "accepted": "16 August 2024",
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/POM.2024.9140081",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/POM.2024.9140081.pdf",
+    "internal_id": "",
+    "publisher": "清华大学出版社",
+    "issn": "2957-9821",
+    "language": "en",
+    "bibtex": "@article{Yin2025,\nauthor ={Yi-An Yin and Wu-Ji Chen and Chun-Yan Liu and Meng-Meng Zhang and Chang-Gen Lin and Haralampos N. Miras and Yu-Fei Song},\ntitle ={Supramolecular assembly of covalently modified Anderson-type polyoxometalates and crown ethers towards &lt;i&gt;pseudo&lt;/i&gt;-rotaxane structures},\nyear ={2025},\njournal ={Polyoxometalates},\nvolume ={4},\nnumber ={1},\npages ={9140081},\nkeywords ={polyoxometalate, supramolecular assembly, organic-inorganic hybrid, crown ether, rotaxane},\nurl ={https://www.sciopen.com/article/10.26599/POM.2024.9140081},\ndoi ={10.26599/POM.2024.9140081},\nabstract ={The supramolecular assembly of a series of covalently modified Anderson-type polyoxometalates (POMs) and 18-crown-6 ethers was investigated for the first time. Seven new POM–crown ether complexes were prepared by varying the countercations and the modification mode of the Anderson clusters, and they were fully characterized by single-crystal X-ray diffraction, electrospray ionization time-of-flight mass spectrometry (ESI–TOF–MS), 1H nuclear magnetic resonance (NMR), etc. Alkali metal cations within the cavities of the crown ethers served as supercations to bind to the POM hybrids, thereby forming supramolecular assemblies with different architectures and compositions. More interestingly, five of the seven POM–crown ether complexes possessed novel pseudo-rotaxane structures, which were obtained by changing the modification mode of the Anderson clusters from symmetric to asymmetric. These pseudo-rotaxanes have not been reported previously and are considered important intermediates in the construction of POM-based supramolecular architectures with complementary structural and chemical properties.}\n}"
+  },
+  {
+    "doi": "10.26599/POM.2024.9140082",
+    "title": "Advanced application of metal nanoparticles in the diagnosis and treatment of rheumatoid arthritis",
+    "authors": [
+      {
+        "name": "Wenjing Zhang"
+      },
+      {
+        "name": "Tingting Xu"
+      },
+      {
+        "name": "Yu Chen"
+      },
+      {
+        "name": "Guiyang Zhang"
+      },
+      {
+        "name": "Yongbo Song"
+      }
+    ],
+    "affiliations": [
+      "School of Basic Medical Sciences,Anhui,CHINA",
+      "Anhui Medical University,Hefei,Anhui,CHINA",
+      "School of Basic Medical Sciences,Anhui,CHINA",
+      "Anhui Medical University,Hefei,Anhui,CHINA",
+      "School of Biomedical Engineering,Anhui,CHINA",
+      "Anhui Medical University,Hefei,Anhui,CHINA",
+      "School of Basic Medical Sciences,Anhui,CHINA",
+      "Anhui Medical University,Hefei,Anhui,CHINA",
+      "School of Biomedical Engineering,Anhui,CHINA",
+      "Anhui Medical University,Hefei,Anhui,CHINA",
+      "School of Basic Medical Sciences,Anhui,CHINA",
+      "Anhui Medical University,Hefei,Anhui,CHINA"
+    ],
+    "keywords": [
+      "rheumatoid arthritis",
+      "metal nanoparticles",
+      "diagnosis",
+      "treatment",
+      "theranostic"
+    ],
+    "abstract": "Rheumatoid arthritis (RA) is a complex autoimmune inflammatory disorder characterized by the deterioration of cartilage and bone, leading to joint damage and increased mortality rates. Although current pharmacological treatments for RA have proven effective, considerable challenges remain, such as the need for high dosages, frequent administration, and a high incidence of severe side effects. This highlights the urgent need to improve therapeutic strategies for RA. In recent decades, nanotechnology has emerged as a promising avenue for treatment, demonstrating considerable progress in RA management. Among various nanomaterials, metal nanoparticles (MNPs) have achieved considerable advancements in both the diagnosis and treatment of RA. It is important to highlight that atomically accurate metal nanoclusters (MNCs), which are a type of MNPs characterized by their exact structure and ultrasmall size (< 3 nm), have shown promise in the management of RA in recent years. This review offers a comprehensive overview of the latest research advancements concerning the use of MNCs and MNPs in the diagnosis and treatment of RA, detailing their design principles, synthesis strategies, and therapeutic mechanisms. Furthermore, it discusses future prospects and potential directions for the application of MNCs and MNPs in RA management.",
+    "volume": "4",
+    "issue": "1",
+    "firstpage": "9140082",
+    "lastpage": "",
+    "year": "2025",
+    "publication_date": "2025/3/1",
+    "online_date": "2024/11/15",
+    "received": "01 July 2024",
+    "revised": "02 October 2024",
+    "accepted": "31 October 2024",
+    "type": "Review",
+    "url": "https://www.sciopen.com/article/10.26599/POM.2024.9140082",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/POM.2024.9140082.pdf",
+    "internal_id": "",
+    "publisher": "清华大学出版社",
+    "issn": "2957-9821",
+    "language": "en",
+    "bibtex": "@article{Zhang2025,\nauthor ={Wenjing Zhang and Tingting Xu and Yu Chen and Guiyang Zhang and Yongbo Song},\ntitle ={Advanced application of metal nanoparticles in the diagnosis and treatment of rheumatoid arthritis},\nyear ={2025},\njournal ={Polyoxometalates},\nvolume ={4},\nnumber ={1},\npages ={9140082},\nkeywords ={rheumatoid arthritis, metal nanoparticles, diagnosis, treatment, theranostic},\nurl ={https://www.sciopen.com/article/10.26599/POM.2024.9140082},\ndoi ={10.26599/POM.2024.9140082},\nabstract ={Rheumatoid arthritis (RA) is a complex autoimmune inflammatory disorder characterized by the deterioration of cartilage and bone, leading to joint damage and increased mortality rates. Although current pharmacological treatments for RA have proven effective, considerable challenges remain, such as the need for high dosages, frequent administration, and a high incidence of severe side effects. This highlights the urgent need to improve therapeutic strategies for RA. In recent decades, nanotechnology has emerged as a promising avenue for treatment, demonstrating considerable progress in RA management. Among various nanomaterials, metal nanoparticles (MNPs) have achieved considerable advancements in both the diagnosis and treatment of RA. It is important to highlight that atomically accurate metal nanoclusters (MNCs), which are a type of MNPs characterized by their exact structure and ultrasmall size (< 3 nm), have shown promise in the management of RA in recent years. This review offers a comprehensive overview of the latest research advancements concerning the use of MNCs and MNPs in the diagnosis and treatment of RA, detailing their design principles, synthesis strategies, and therapeutic mechanisms. Furthermore, it discusses future prospects and potential directions for the application of MNCs and MNPs in RA management.}\n}"
+  },
+  {
+    "doi": "10.26599/POM.2024.9140075",
+    "title": "Comprehensive and practical guidelines for reduction synthesis of atomically precise coinage–metal nanoclusters",
+    "authors": [
+      {
+        "name": "Qinghua Xu"
+      },
+      {
+        "name": "Xuekun Gong"
+      },
+      {
+        "name": "Zixiao Zhao"
+      },
+      {
+        "name": "Lin Wang"
+      },
+      {
+        "name": "Jing Sun"
+      },
+      {
+        "name": "Jinlu He"
+      },
+      {
+        "name": "Simin Li"
+      },
+      {
+        "name": "Hui Shen"
+      }
+    ],
+    "affiliations": [
+      "College of Energy Material and Chemistry,Inner Mongolia,CHINA",
+      "Inner Mongolia University,Inner Mongolia,CHINA",
+      "College of Energy Material and Chemistry,Inner Mongolia,CHINA",
+      "Inner Mongolia University,Inner Mongolia,CHINA",
+      "College of Chemistry and Chemical Engineering,CHINA",
+      "Xiamen University, 361005,CHINA",
+      "College of Chemistry and Chemical Engineering,Inner Mongolia,CHINA",
+      "Inner Mongolia University,Inner Mongolia,CHINA",
+      "College of Energy Material and Chemistry,Inner Mongolia,CHINA",
+      "Inner Mongolia University,Inner Mongolia,CHINA",
+      "College of Energy Material and Chemistry,Inner Mongolia,CHINA",
+      "Inner Mongolia University,Inner Mongolia,CHINA",
+      "College of Chemistry and Chemical Engineering,Inner Mongolia,CHINA",
+      "Inner Mongolia University,Inner Mongolia,CHINA",
+      "College of Energy Material and Chemistry,Inner Mongolia,CHINA",
+      "Inner Mongolia University,Inner Mongolia,CHINA",
+      "College of Energy Material and Chemistry,Inner Mongolia,CHINA",
+      "Inner Mongolia University,Inner Mongolia,CHINA"
+    ],
+    "keywords": [
+      "cluster compound",
+      "synthetic methods",
+      "kinetic control",
+      "crystallography",
+      "coordination chemistry"
+    ],
+    "abstract": "As a model system for studying the structure–property relationship and surface coordination chemistry of metal nanomaterials, ligand-stabilized, atomically precise coinage–metal (Au, Ag, and Cu) nanoclusters (NCs) have attracted considerable attention. Extensive effort has been devoted to the synthesis and structural determination of metal NCs over the past decades, with the chemical reduction of high-valence metal ions in the presence of protective ligands laying the foundation. After examining over 200 synthetic examples of individual metal NCs prepared through direct reduction methods—using reactants such as single metals (Au, Ag, and Cu) or alloys (e.g., Au-Ag, Au-Pt), along with ligands such as phosphines, thiolates, and alkynyls, N-heterocyclic carbenes, halides, and their combinations, we propose comprehensive and practical guidelines for the reduction synthesis of ligand-stabilized metal NCs. This review aims to elucidate the potential introduction of robust synthetic prototypes for engineering these NCs, which have evolved from one-phase, two-phase, and miscible solution synthesis to solid-state synthesis. Several factors are crucial for optimizing synthesis, including the selection of precursors, reductant systems, and purification strategies. After presenting an expansive and critical perspective on this rapidly evolving field, we outline some promising future trends.",
+    "volume": "4",
+    "issue": "2",
+    "firstpage": "9140075",
+    "lastpage": "",
+    "year": "2025",
+    "publication_date": "2025/6/29",
+    "online_date": "2024/9/2",
+    "received": "02 April 2024",
+    "revised": "30 July 2024",
+    "accepted": "06 August 2024",
+    "type": "Review",
+    "url": "https://www.sciopen.com/article/10.26599/POM.2024.9140075",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/POM.2024.9140075.pdf",
+    "internal_id": "",
+    "publisher": "清华大学出版社",
+    "issn": "2957-9821",
+    "language": "en",
+    "bibtex": "@article{Xu2025,\nauthor ={Qinghua Xu and Xuekun Gong and Zixiao Zhao and Lin Wang and Jing Sun and Jinlu He and Simin Li and Hui Shen},\ntitle ={Comprehensive and practical guidelines for reduction synthesis of atomically precise coinage–metal nanoclusters},\nyear ={2025},\njournal ={Polyoxometalates},\nvolume ={4},\nnumber ={2},\npages ={9140075},\nkeywords ={cluster compound, synthetic methods, kinetic control, crystallography, coordination chemistry},\nurl ={https://www.sciopen.com/article/10.26599/POM.2024.9140075},\ndoi ={10.26599/POM.2024.9140075},\nabstract ={As a model system for studying the structure–property relationship and surface coordination chemistry of metal nanomaterials, ligand-stabilized, atomically precise coinage–metal (Au, Ag, and Cu) nanoclusters (NCs) have attracted considerable attention. Extensive effort has been devoted to the synthesis and structural determination of metal NCs over the past decades, with the chemical reduction of high-valence metal ions in the presence of protective ligands laying the foundation. After examining over 200 synthetic examples of individual metal NCs prepared through direct reduction methods—using reactants such as single metals (Au, Ag, and Cu) or alloys (e.g., Au-Ag, Au-Pt), along with ligands such as phosphines, thiolates, and alkynyls, N-heterocyclic carbenes, halides, and their combinations, we propose comprehensive and practical guidelines for the reduction synthesis of ligand-stabilized metal NCs. This review aims to elucidate the potential introduction of robust synthetic prototypes for engineering these NCs, which have evolved from one-phase, two-phase, and miscible solution synthesis to solid-state synthesis. Several factors are crucial for optimizing synthesis, including the selection of precursors, reductant systems, and purification strategies. After presenting an expansive and critical perspective on this rapidly evolving field, we outline some promising future trends.}\n}"
+  },
+  {
+    "doi": "10.26599/POM.2024.9140083",
+    "title": "Ruthenium containing polyoxometalates: From synthesis, structures, properties to functional applications",
+    "authors": [
+      {
+        "name": "Qingmiao Cai"
+      },
+      {
+        "name": "Ruili Gao"
+      },
+      {
+        "name": "Yanfei Wang"
+      },
+      {
+        "name": "Jiashen Xing"
+      },
+      {
+        "name": "Qingyang Zhang"
+      },
+      {
+        "name": "Muzi Zhu"
+      },
+      {
+        "name": "Xinyuan Qin"
+      },
+      {
+        "name": "Meihong Liao"
+      },
+      {
+        "name": "Yichao Huang"
+      }
+    ],
+    "affiliations": [
+      "State Key Laboratory of Chemical Safety,CHINA",
+      "School of Materials Science and Engineering,CHINA",
+      "China University of Petroleum (East China), 266555,CHINA",
+      "State Key Laboratory of Chemical Safety,CHINA",
+      "School of Materials Science and Engineering,CHINA",
+      "China University of Petroleum (East China), 266555,CHINA",
+      "State Key Laboratory of Chemical Safety,CHINA",
+      "School of Materials Science and Engineering,CHINA",
+      "China University of Petroleum (East China), 266555,CHINA",
+      "State Key Laboratory of Chemical Safety,CHINA",
+      "School of Materials Science and Engineering,CHINA",
+      "China University of Petroleum (East China), 266555,CHINA",
+      "State Key Laboratory of Chemical Safety,CHINA",
+      "School of Materials Science and Engineering,CHINA",
+      "China University of Petroleum (East China), 266555,CHINA",
+      "State Key Laboratory of Chemical Safety,CHINA",
+      "School of Materials Science and Engineering,CHINA",
+      "China University of Petroleum (East China), 266555,CHINA",
+      "State Key Laboratory of Chemical Safety,CHINA",
+      "School of Materials Science and Engineering,CHINA",
+      "China University of Petroleum (East China), 266555,CHINA",
+      "School of Mechanical and Electronic Engineering,Qingdao,Shandong,CHINA",
+      "Qingdao Binhai University,Qingdao,Shandong,CHINA",
+      "State Key Laboratory of Chemical Safety,CHINA",
+      "School of Materials Science and Engineering,CHINA",
+      "China University of Petroleum (East China), 266555,CHINA"
+    ],
+    "keywords": [
+      "ruthenium",
+      "polyoxometalates",
+      "organocatalysis",
+      "electrocatalysis",
+      "photocatalysis"
+    ],
+    "abstract": "Ruthenium-containing polyoxometalates (Ru-POMs) are a class of heteropolyanions (vanadates, molybdates, or tungstates) containing at least one Ru atom as a heteroatom or “addenda” atom. In recent years, Ru-POMs have attracted considerable attention owing to their structural versatility, intriguing redox properties, and oxidation resistance, rendering them highly promising for applications in organocatalysis, electrocatalysis, photocatalysis, and beyond. This review summarizes the advances in Ru-POMs, covering their synthesis methods, structures, properties, and applications. It aims to serve as a reference and guide for the future design and development of novel Ru-POM structures and applications.",
+    "volume": "4",
+    "issue": "2",
+    "firstpage": "9140083",
+    "lastpage": "",
+    "year": "2025",
+    "publication_date": "2025/6/29",
+    "online_date": "2025/1/6",
+    "received": "10 October 2024",
+    "revised": "03 December 2024",
+    "accepted": "13 December 2024",
+    "type": "Review",
+    "url": "https://www.sciopen.com/article/10.26599/POM.2024.9140083",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/POM.2024.9140083.pdf",
+    "internal_id": "",
+    "publisher": "清华大学出版社",
+    "issn": "2957-9821",
+    "language": "en",
+    "bibtex": "@article{Cai2025,\nauthor ={Qingmiao Cai and Ruili Gao and Yanfei Wang and Jiashen Xing and Qingyang Zhang and Muzi Zhu and Xinyuan Qin and Meihong Liao and Yichao Huang},\ntitle ={Ruthenium containing polyoxometalates: From synthesis, structures, properties to functional applications},\nyear ={2025},\njournal ={Polyoxometalates},\nvolume ={4},\nnumber ={2},\npages ={9140083},\nkeywords ={ruthenium, polyoxometalates, organocatalysis, electrocatalysis, photocatalysis},\nurl ={https://www.sciopen.com/article/10.26599/POM.2024.9140083},\ndoi ={10.26599/POM.2024.9140083},\nabstract ={Ruthenium-containing polyoxometalates (Ru-POMs) are a class of heteropolyanions (vanadates, molybdates, or tungstates) containing at least one Ru atom as a heteroatom or “addenda” atom. In recent years, Ru-POMs have attracted considerable attention owing to their structural versatility, intriguing redox properties, and oxidation resistance, rendering them highly promising for applications in organocatalysis, electrocatalysis, photocatalysis, and beyond. This review summarizes the advances in Ru-POMs, covering their synthesis methods, structures, properties, and applications. It aims to serve as a reference and guide for the future design and development of novel Ru-POM structures and applications.}\n}"
+  },
+  {
+    "doi": "10.26599/POM.2025.9140085",
+    "title": "Self-assembled vesicles containing podophyllotoxin covalently modified with polyoxometalates for antitumor therapy",
+    "authors": [
+      {
+        "name": "Lingmei Li"
+      },
+      {
+        "name": "Yixiang Song"
+      },
+      {
+        "name": "Jinyu Liu"
+      },
+      {
+        "name": "Quanfu Wang"
+      },
+      {
+        "name": "Jiacheng Wu"
+      },
+      {
+        "name": "Xiaochuan Lu"
+      },
+      {
+        "name": "Dejin Zang"
+      },
+      {
+        "name": "Teng Liu"
+      }
+    ],
+    "affiliations": [
+      "Institute of Materia Medica,CHINA",
+      "School of Pharmaceutical Sciences,CHINA",
+      "Shandong First Medical University &amp; Shandong Academy of Medical Sciences,CHINA",
+      "State Key Laboratory of Advanced Drug Delivery and Release Systems,CHINA",
+      "School of Pharmaceutical Sciences,CHINA",
+      "Shandong First Medical University &amp; Shandong Academy of Medical Sciences,CHINA",
+      "Key Laboratory for Biotechnology Drugs of National Health Commission (Shandong Academy of Medical Sciences),CHINA",
+      "School of Pharmaceutical Sciences,CHINA",
+      "Shandong First Medical University &amp; Shandong Academy of Medical Sciences,CHINA",
+      "Key Lab for Rare &amp; Uncommon Diseases of Shandong Province,CHINA",
+      "School of Pharmaceutical Sciences,CHINA",
+      "Shandong First Medical University &amp; Shandong Academy of Medical Sciences,CHINA",
+      "Department of Pediatric Oncology,Shandong First Medical University and Shandong Academy of Medical Sciences,Shandong Cancer Hospital and Institute",
+      "Institute of Materia Medica,CHINA",
+      "School of Pharmaceutical Sciences,CHINA",
+      "Shandong First Medical University &amp; Shandong Academy of Medical Sciences,CHINA",
+      "State Key Laboratory of Advanced Drug Delivery and Release Systems,CHINA",
+      "School of Pharmaceutical Sciences,CHINA",
+      "Shandong First Medical University &amp; Shandong Academy of Medical Sciences,CHINA",
+      "Key Laboratory for Biotechnology Drugs of National Health Commission (Shandong Academy of Medical Sciences),CHINA",
+      "School of Pharmaceutical Sciences,CHINA",
+      "Shandong First Medical University &amp; Shandong Academy of Medical Sciences,CHINA",
+      "Key Lab for Rare &amp; Uncommon Diseases of Shandong Province,CHINA",
+      "School of Pharmaceutical Sciences,CHINA",
+      "Shandong First Medical University &amp; Shandong Academy of Medical Sciences,CHINA",
+      "Institute of Materia Medica,CHINA",
+      "School of Pharmaceutical Sciences,CHINA",
+      "Shandong First Medical University &amp; Shandong Academy of Medical Sciences,CHINA",
+      "State Key Laboratory of Advanced Drug Delivery and Release Systems,CHINA",
+      "School of Pharmaceutical Sciences,CHINA",
+      "Shandong First Medical University &amp; Shandong Academy of Medical Sciences,CHINA",
+      "Key Laboratory for Biotechnology Drugs of National Health Commission (Shandong Academy of Medical Sciences),CHINA",
+      "School of Pharmaceutical Sciences,CHINA",
+      "Shandong First Medical University &amp; Shandong Academy of Medical Sciences,CHINA",
+      "Key Lab for Rare &amp; Uncommon Diseases of Shandong Province,CHINA",
+      "School of Pharmaceutical Sciences,CHINA",
+      "Shandong First Medical University &amp; Shandong Academy of Medical Sciences,CHINA",
+      "Institute of Materia Medica,CHINA",
+      "School of Pharmaceutical Sciences,CHINA",
+      "Shandong First Medical University &amp; Shandong Academy of Medical Sciences,CHINA",
+      "State Key Laboratory of Advanced Drug Delivery and Release Systems,CHINA",
+      "School of Pharmaceutical Sciences,CHINA",
+      "Shandong First Medical University &amp; Shandong Academy of Medical Sciences,CHINA",
+      "Key Laboratory for Biotechnology Drugs of National Health Commission (Shandong Academy of Medical Sciences),CHINA",
+      "School of Pharmaceutical Sciences,CHINA",
+      "Shandong First Medical University &amp; Shandong Academy of Medical Sciences,CHINA",
+      "Key Lab for Rare &amp; Uncommon Diseases of Shandong Province,CHINA",
+      "School of Pharmaceutical Sciences,CHINA",
+      "Shandong First Medical University &amp; Shandong Academy of Medical Sciences,CHINA",
+      "Institute of Materia Medica,CHINA",
+      "School of Pharmaceutical Sciences,CHINA",
+      "Shandong First Medical University &amp; Shandong Academy of Medical Sciences,CHINA",
+      "State Key Laboratory of Advanced Drug Delivery and Release Systems,CHINA",
+      "School of Pharmaceutical Sciences,CHINA",
+      "Shandong First Medical University &amp; Shandong Academy of Medical Sciences,CHINA",
+      "Key Laboratory for Biotechnology Drugs of National Health Commission (Shandong Academy of Medical Sciences),CHINA",
+      "School of Pharmaceutical Sciences,CHINA",
+      "Shandong First Medical University &amp; Shandong Academy of Medical Sciences,CHINA",
+      "Key Lab for Rare &amp; Uncommon Diseases of Shandong Province,CHINA",
+      "School of Pharmaceutical Sciences,CHINA",
+      "Shandong First Medical University &amp; Shandong Academy of Medical Sciences,CHINA",
+      "Institute of Materia Medica,CHINA",
+      "School of Pharmaceutical Sciences,CHINA",
+      "Shandong First Medical University &amp; Shandong Academy of Medical Sciences,CHINA",
+      "State Key Laboratory of Advanced Drug Delivery and Release Systems,CHINA",
+      "School of Pharmaceutical Sciences,CHINA",
+      "Shandong First Medical University &amp; Shandong Academy of Medical Sciences,CHINA",
+      "Key Laboratory for Biotechnology Drugs of National Health Commission (Shandong Academy of Medical Sciences),CHINA",
+      "School of Pharmaceutical Sciences,CHINA",
+      "Shandong First Medical University &amp; Shandong Academy of Medical Sciences,CHINA",
+      "Key Lab for Rare &amp; Uncommon Diseases of Shandong Province,CHINA",
+      "School of Pharmaceutical Sciences,CHINA",
+      "Shandong First Medical University &amp; Shandong Academy of Medical Sciences,CHINA",
+      "Institute of Materia Medica,CHINA",
+      "School of Pharmaceutical Sciences,CHINA",
+      "Shandong First Medical University &amp; Shandong Academy of Medical Sciences,CHINA",
+      "State Key Laboratory of Advanced Drug Delivery and Release Systems,CHINA",
+      "School of Pharmaceutical Sciences,CHINA",
+      "Shandong First Medical University &amp; Shandong Academy of Medical Sciences,CHINA",
+      "Key Laboratory for Biotechnology Drugs of National Health Commission (Shandong Academy of Medical Sciences),CHINA",
+      "School of Pharmaceutical Sciences,CHINA",
+      "Shandong First Medical University &amp; Shandong Academy of Medical Sciences,CHINA",
+      "Key Lab for Rare &amp; Uncommon Diseases of Shandong Province,CHINA",
+      "School of Pharmaceutical Sciences,CHINA",
+      "Shandong First Medical University &amp; Shandong Academy of Medical Sciences,CHINA"
+    ],
+    "keywords": [
+      "polyoxometalates",
+      "podophyllotoxin",
+      "self-assembly",
+      "vesicles",
+      "anti-tumor"
+    ],
+    "abstract": "Several polyoxometalates (POMs) have been shown to possess antitumor activity. In this study, hydrophilic POMs were combined with the hydrophobic drug podophyllotoxin (PPT) to create an amphiphilic anti-cancer drug PPT-POM-PPT, which can self-assemble into hollow vesicles. The properties of these vesicles, such as the critical aggregation concentration, were characterized. These vesicles had low hemolytic activity and high stability. Cytotoxicity tests showed that the PTT-POM-PPT vesicles exhibit strong antitumor activity against lung and liver cancer cells without significantly affecting normal cells. Cell uptake experiments confirm that the PPT-POM-PPT vesicles can easily penetrate cell membranes and effectively enter tumor cells, thus exerting anti-tumor effects. Furthermore, these vesicles co-localized with lysosomes. Moreover, these PPT-POM-PPT vesicles exhibit synergistic effects of PPT and POMs. They are efficient drug delivery platforms that act as both the carrier and the active drug, avoiding the potential risks associated with additional carrier ingredients. In summary, due to their anticancer properties, POMs and PPT facilitate the generation of novel amphiphilic self-assembling vesicles, providing a theoretical basis and enabling clinical applications of POMs in cancer therapy.",
+    "volume": "4",
+    "issue": "2",
+    "firstpage": "9140085",
+    "lastpage": "",
+    "year": "2025",
+    "publication_date": "2025/6/29",
+    "online_date": "2025/3/19",
+    "received": "27 September 2024",
+    "revised": "23 December 2024",
+    "accepted": "08 February 2025",
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/POM.2025.9140085",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/POM.2025.9140085.pdf",
+    "internal_id": "",
+    "publisher": "清华大学出版社",
+    "issn": "2957-9821",
+    "language": "en",
+    "bibtex": "@article{Li2025,\nauthor ={Lingmei Li and Yixiang Song and Jinyu Liu and Quanfu Wang and Jiacheng Wu and Xiaochuan Lu and Dejin Zang and Teng Liu},\ntitle ={Self-assembled vesicles containing podophyllotoxin covalently modified with polyoxometalates for antitumor therapy},\nyear ={2025},\njournal ={Polyoxometalates},\nvolume ={4},\nnumber ={2},\npages ={9140085},\nkeywords ={polyoxometalates, podophyllotoxin, self-assembly, vesicles, anti-tumor},\nurl ={https://www.sciopen.com/article/10.26599/POM.2025.9140085},\ndoi ={10.26599/POM.2025.9140085},\nabstract ={Several polyoxometalates (POMs) have been shown to possess antitumor activity. In this study, hydrophilic POMs were combined with the hydrophobic drug podophyllotoxin (PPT) to create an amphiphilic anti-cancer drug PPT-POM-PPT, which can self-assemble into hollow vesicles. The properties of these vesicles, such as the critical aggregation concentration, were characterized. These vesicles had low hemolytic activity and high stability. Cytotoxicity tests showed that the PTT-POM-PPT vesicles exhibit strong antitumor activity against lung and liver cancer cells without significantly affecting normal cells. Cell uptake experiments confirm that the PPT-POM-PPT vesicles can easily penetrate cell membranes and effectively enter tumor cells, thus exerting anti-tumor effects. Furthermore, these vesicles co-localized with lysosomes. Moreover, these PPT-POM-PPT vesicles exhibit synergistic effects of PPT and POMs. They are efficient drug delivery platforms that act as both the carrier and the active drug, avoiding the potential risks associated with additional carrier ingredients. In summary, due to their anticancer properties, POMs and PPT facilitate the generation of novel amphiphilic self-assembling vesicles, providing a theoretical basis and enabling clinical applications of POMs in cancer therapy.}\n}"
+  },
+  {
+    "doi": "10.26599/POM.2025.9140086",
+    "title": "From intermediate capture to functional cluster construction: Synthesis of silver clusters and their Br&lt;sup&gt;−&lt;/sup&gt;/I&lt;sup&gt;−&lt;/sup&gt; sensing applications",
+    "authors": [
+      {
+        "name": "Zhixun Zhang"
+      },
+      {
+        "name": "Juefei Dai"
+      },
+      {
+        "name": "Cheng-Cheng Feng"
+      },
+      {
+        "name": "Chuanhua Shi"
+      },
+      {
+        "name": "Lebing Zhou"
+      },
+      {
+        "name": "Xianyong Yu"
+      },
+      {
+        "name": "Chao Yang"
+      },
+      {
+        "name": "Xueji Zhang"
+      },
+      {
+        "name": "Huayan Yang"
+      }
+    ],
+    "affiliations": [
+      "Shenzhen Key Laboratory of Nano-Biosensing Technology,CHINA",
+      "Shenzhen University Medical School,CHINA",
+      "Shenzhen University, 518060,CHINA",
+      "Key Laboratory of Theoretical Organic Chemistry and Functional Molecules,Hunan University of Science &amp; Technology",
+      "Shenzhen Key Laboratory of Nano-Biosensing Technology,CHINA",
+      "Shenzhen University Medical School,CHINA",
+      "Shenzhen University, 518060,CHINA",
+      "Shenzhen Key Laboratory of Nano-Biosensing Technology,CHINA",
+      "Shenzhen University Medical School,CHINA",
+      "Shenzhen University, 518060,CHINA",
+      "Shenzhen Key Laboratory of Nano-Biosensing Technology,CHINA",
+      "Shenzhen University Medical School,CHINA",
+      "Shenzhen University, 518060,CHINA",
+      "Key Laboratory of Theoretical Organic Chemistry and Functional Molecules,Hunan University of Science &amp; Technology",
+      "Shenzhen Key Laboratory of Nano-Biosensing Technology,CHINA",
+      "Shenzhen University Medical School,CHINA",
+      "Shenzhen University, 518060,CHINA",
+      "Shenzhen Key Laboratory of Nano-Biosensing Technology,CHINA",
+      "Shenzhen University Medical School,CHINA",
+      "Shenzhen University, 518060,CHINA",
+      "Shenzhen Key Laboratory of Nano-Biosensing Technology,CHINA",
+      "Shenzhen University Medical School,CHINA",
+      "Shenzhen University, 518060,CHINA"
+    ],
+    "keywords": [
+      "silver nanoclusters",
+      "aggregation-induced redshift",
+      "halide ion sensing",
+      "near-infrared fluorescence",
+      "ligand-controlled synthesis"
+    ],
+    "abstract": "In this study, the controlled synthesis of highly stable Ag56 clusters was achieved using 4-vinylbenzoic acid (p-VBA) and tert-butyl mercaptan as ligands by accurately tuning reaction parameters such as temperature and solvent. Additionally, intermediates Ag20, Ag31, Ag32, along with the dimers of Ag31/Ag32, Ag30-bpbenz (bpbenz: 1,4-di(4-pyridyl)benzene), and Ag31-bpe (bpe: 1,2-bis(4-pyridyl)) were successfully captured. This series of nanoclusters exhibited a distinctive fluorescence aggregation-induced redshift phenomenon owing to the π–π interactions of the ligand. Additionally, the Ag56 nanocluster serves as a near-infrared fluorescence sensor for Br− and I−, with detection limits as low as 85 and 105 nM, respectively. This study offers new insights and methodologies for the synthesis of metal clusters and their applications in ion sensing.",
+    "volume": "4",
+    "issue": "2",
+    "firstpage": "9140086",
+    "lastpage": "",
+    "year": "2025",
+    "publication_date": "2025/6/29",
+    "online_date": "2025/2/25",
+    "received": "29 January 2025",
+    "revised": "14 February 2025",
+    "accepted": "16 February 2025",
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/POM.2025.9140086",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/POM.2025.9140086.pdf",
+    "internal_id": "",
+    "publisher": "清华大学出版社",
+    "issn": "2957-9821",
+    "language": "en",
+    "bibtex": "@article{Zhang2025,\nauthor ={Zhixun Zhang and Juefei Dai and Cheng-Cheng Feng and Chuanhua Shi and Lebing Zhou and Xianyong Yu and Chao Yang and Xueji Zhang and Huayan Yang},\ntitle ={From intermediate capture to functional cluster construction: Synthesis of silver clusters and their Br&lt;sup&gt;−&lt;/sup&gt;/I&lt;sup&gt;−&lt;/sup&gt; sensing applications},\nyear ={2025},\njournal ={Polyoxometalates},\nvolume ={4},\nnumber ={2},\npages ={9140086},\nkeywords ={silver nanoclusters, aggregation-induced redshift, halide ion sensing, near-infrared fluorescence, ligand-controlled synthesis},\nurl ={https://www.sciopen.com/article/10.26599/POM.2025.9140086},\ndoi ={10.26599/POM.2025.9140086},\nabstract ={In this study, the controlled synthesis of highly stable Ag56 clusters was achieved using 4-vinylbenzoic acid (p-VBA) and tert-butyl mercaptan as ligands by accurately tuning reaction parameters such as temperature and solvent. Additionally, intermediates Ag20, Ag31, Ag32, along with the dimers of Ag31/Ag32, Ag30-bpbenz (bpbenz: 1,4-di(4-pyridyl)benzene), and Ag31-bpe (bpe: 1,2-bis(4-pyridyl)) were successfully captured. This series of nanoclusters exhibited a distinctive fluorescence aggregation-induced redshift phenomenon owing to the π–π interactions of the ligand. Additionally, the Ag56 nanocluster serves as a near-infrared fluorescence sensor for Br− and I−, with detection limits as low as 85 and 105 nM, respectively. This study offers new insights and methodologies for the synthesis of metal clusters and their applications in ion sensing.}\n}"
+  },
+  {
+    "doi": "10.26599/POM.2025.9140087",
+    "title": "Engineering boron-imidazolate-based polyoxometalates for photooxidative C=C bond cleavage in aqueous media",
+    "authors": [
+      {
+        "name": "Jiajia Wang"
+      },
+      {
+        "name": "Zhaoyang Wu"
+      },
+      {
+        "name": "Qun Li"
+      },
+      {
+        "name": "Hanlei Zhang"
+      },
+      {
+        "name": "Yang Liu"
+      },
+      {
+        "name": "Guixiao Ji"
+      },
+      {
+        "name": "Yalin Zhang"
+      },
+      {
+        "name": "Qianli Li"
+      },
+      {
+        "name": "Junyu Ren"
+      },
+      {
+        "name": "Qingde Zhang"
+      },
+      {
+        "name": "Xianqiang Huang"
+      }
+    ],
+    "affiliations": [
+      "Shandong Provincial Key Laboratory of Chemical Energy Storage and Novel Cell Technology,CHINA",
+      "Shandong Provincial Key Laboratory of Chemical Energy Storage and Novel Cell Technology,CHINA",
+      "Shandong Provincial Key Laboratory of Chemical Energy Storage and Novel Cell Technology,CHINA",
+      "Shandong Provincial Key Laboratory of Chemical Energy Storage and Novel Cell Technology,CHINA",
+      "Shandong Provincial Key Laboratory of Chemical Energy Storage and Novel Cell Technology,CHINA",
+      "Shandong Provincial Key Laboratory of Chemical Energy Storage and Novel Cell Technology,CHINA",
+      "Shandong Provincial Key Laboratory of Chemical Energy Storage and Novel Cell Technology,CHINA",
+      "Shandong Provincial Key Laboratory of Chemical Energy Storage and Novel Cell Technology,CHINA",
+      "Department of Chemical and Biomolecular Engineering,SINGAPORE",
+      "National University of Singapore, 119077,SINGAPORE",
+      "State Key Laboratory of Coal Conversion,CHINA",
+      "Institute of Coal Chemistry,CHINA",
+      "Chinese Academy of Sciences, 100101,CHINA",
+      "Shandong Provincial Key Laboratory of Chemical Energy Storage and Novel Cell Technology,CHINA"
+    ],
+    "keywords": [
+      "boron imidazolate",
+      "polyoxometalates",
+      "photooxidative cleavage",
+      "alkenes"
+    ],
+    "abstract": "The direct cleavage of alkenes to access value-added carbonyls under solar-driven conditions in aqueous media presents a considerable challenge. Addressing this challenge requires the construction of effective visible-light-responsive catalysts. Herein, two boron-imidazolate-based Strandberg-type polyoxomolybdophosphate hybrids, Co(H2O)4[HP2Mo5O23]2[B(HIM)(IM)2]2[B(HIM)3]2·12H2O (1) and Zn(H2O)4[HP2Mo5O23]2[B(HIM)(H2IM)2]4·7H2O (2) (IM = imidazole), were synthesized using a hydrothermal method and were utilized as efficient photocatalysts for the aerobic oxidative C=C bond cleavage of alkenes under natural sunlight and aqueous phase conditions. The incorporation of boron imidazolate ligands broadened the visible-light absorption region of polyoxometalates, and electrochemical tests highlighted their potential as exceptional photocatalysts. Upon visible blue light irradiation and ambient O2 pressure in aqueous media, compound 1 exhibited remarkable aerobic photocatalytic activity, efficiently cleaving alkenes to yield the corresponding ketones (yields up to 91%). Notably, its catalytic performance remained consistent after three recycling runs under ambient sunlight, highlighting its robust stability and practical applicability. Subsequent mechanistic investigations revealed the involvement of O2•− species in the reaction, and a possible mechanism for the cleavage of the alkenes was proposed.",
+    "volume": "4",
+    "issue": "2",
+    "firstpage": "9140087",
+    "lastpage": "",
+    "year": "2025",
+    "publication_date": "2025/3/19",
+    "online_date": "2025/3/19",
+    "received": "04 December 2024",
+    "revised": "03 February 2025",
+    "accepted": "16 February 2025",
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/POM.2025.9140087",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/POM.2025.9140087.pdf",
+    "internal_id": "",
+    "publisher": "清华大学出版社",
+    "issn": "2957-9821",
+    "language": "en",
+    "bibtex": "@article{Wang2025,\nauthor ={Jiajia Wang and Zhaoyang Wu and Qun Li and Hanlei Zhang and Yang Liu and Guixiao Ji and Yalin Zhang and Qianli Li and Junyu Ren and Qingde Zhang and Xianqiang Huang},\ntitle ={Engineering boron-imidazolate-based polyoxometalates for photooxidative C=C bond cleavage in aqueous media},\nyear ={2025},\njournal ={Polyoxometalates},\nvolume ={4},\nnumber ={2},\npages ={9140087},\nkeywords ={boron imidazolate, polyoxometalates, photooxidative cleavage, alkenes},\nurl ={https://www.sciopen.com/article/10.26599/POM.2025.9140087},\ndoi ={10.26599/POM.2025.9140087},\nabstract ={The direct cleavage of alkenes to access value-added carbonyls under solar-driven conditions in aqueous media presents a considerable challenge. Addressing this challenge requires the construction of effective visible-light-responsive catalysts. Herein, two boron-imidazolate-based Strandberg-type polyoxomolybdophosphate hybrids, Co(H2O)4[HP2Mo5O23]2[B(HIM)(IM)2]2[B(HIM)3]2·12H2O (1) and Zn(H2O)4[HP2Mo5O23]2[B(HIM)(H2IM)2]4·7H2O (2) (IM = imidazole), were synthesized using a hydrothermal method and were utilized as efficient photocatalysts for the aerobic oxidative C=C bond cleavage of alkenes under natural sunlight and aqueous phase conditions. The incorporation of boron imidazolate ligands broadened the visible-light absorption region of polyoxometalates, and electrochemical tests highlighted their potential as exceptional photocatalysts. Upon visible blue light irradiation and ambient O2 pressure in aqueous media, compound 1 exhibited remarkable aerobic photocatalytic activity, efficiently cleaving alkenes to yield the corresponding ketones (yields up to 91%). Notably, its catalytic performance remained consistent after three recycling runs under ambient sunlight, highlighting its robust stability and practical applicability. Subsequent mechanistic investigations revealed the involvement of O2•− species in the reaction, and a possible mechanism for the cleavage of the alkenes was proposed.}\n}"
+  },
+  {
+    "doi": "10.26599/POM.2025.9140088",
+    "title": "Construction of PMoV/rGO/Pt nanocomposite with photoreduced graphene oxide for efficient quantification of vanillic acid",
+    "authors": [
+      {
+        "name": "Shixu Chen"
+      },
+      {
+        "name": "Na Li"
+      },
+      {
+        "name": "Cong Zhang"
+      },
+      {
+        "name": "Haiyan Zhao"
+      },
+      {
+        "name": "Min Cui"
+      },
+      {
+        "name": "Bao Sun"
+      }
+    ],
+    "affiliations": [
+      "Hebei Provincial Key Laboratory of Photoelectric Control on Surface and Interface,Hebei,CHINA",
+      "College of Science,Hebei,CHINA",
+      "Hebei University of Science and Technology,Shijiazhuang,Hebei,CHINA",
+      "Hebei Provincial Key Laboratory of Photoelectric Control on Surface and Interface,Hebei,CHINA",
+      "College of Science,Hebei,CHINA",
+      "Hebei University of Science and Technology,Shijiazhuang,Hebei,CHINA",
+      "Hebei Provincial Key Laboratory of Photoelectric Control on Surface and Interface,Hebei,CHINA",
+      "College of Science,Hebei,CHINA",
+      "Hebei University of Science and Technology,Shijiazhuang,Hebei,CHINA",
+      "Hebei Provincial Key Laboratory of Photoelectric Control on Surface and Interface,Hebei,CHINA",
+      "College of Science,Hebei,CHINA",
+      "Hebei University of Science and Technology,Shijiazhuang,Hebei,CHINA",
+      "Hebei Provincial Key Laboratory of Photoelectric Control on Surface and Interface,Hebei,CHINA",
+      "College of Science,Hebei,CHINA",
+      "Hebei University of Science and Technology,Shijiazhuang,Hebei,CHINA",
+      "Hebei Provincial Key Laboratory of Photoelectric Control on Surface and Interface,Hebei,CHINA",
+      "College of Science,Hebei,CHINA",
+      "Hebei University of Science and Technology,Shijiazhuang,Hebei,CHINA"
+    ],
+    "keywords": [
+      "polyoxometalates",
+      "vanillic acid",
+      "electrochemistry",
+      "sensor",
+      "photoreductant"
+    ],
+    "abstract": "Polyoxometalates (POMs), as a unique type of metal–oxygen cluster compound, undergo multi-electron transfer while maintaining their structures. In this study, an electrochemical sensor that rapidly and sensitively detects vanillic acid was synthesized using vanadium-substituted POM (H4PMo11VO40, PMoV), reduced graphene oxide (rGO), and platinum (Pt) nanoparticles, where PMoV acted as both the photoreductant and stabilizer. In particular, PMoV/rGO/Pt composite was prepared and identified using various methods. Under optimal conditions, the limit of detection of the synthesized electrochemical sensor was estimated to be 0.9 μM at vanillic acid concentrations of 50–1350 μM. In addition, the practical application of PMoV/rGO/Pt/GCE (GCE = glassy carbon electrode) was considered by determining the concentration of vanillic acid in tap and lake water with good recovery (98.36%–102.11% and 97.11%–100.22%, respectively). The synthesized sensor realizes simple, rapid, and economical detection of vanillic acid and can serve as an important analytical tool in this direction.",
+    "volume": "4",
+    "issue": "2",
+    "firstpage": "9140088",
+    "lastpage": "",
+    "year": "2025",
+    "publication_date": "2025/5/7",
+    "online_date": "2025/5/7",
+    "received": "26 July 2024",
+    "revised": "12 March 2025",
+    "accepted": "22 March 2025",
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/POM.2025.9140088",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/POM.2025.9140088.pdf",
+    "internal_id": "",
+    "publisher": "清华大学出版社",
+    "issn": "2957-9821",
+    "language": "en",
+    "bibtex": "@article{Chen2025,\nauthor ={Shixu Chen and Na Li and Cong Zhang and Haiyan Zhao and Min Cui and Bao Sun},\ntitle ={Construction of PMoV/rGO/Pt nanocomposite with photoreduced graphene oxide for efficient quantification of vanillic acid},\nyear ={2025},\njournal ={Polyoxometalates},\nvolume ={4},\nnumber ={2},\npages ={9140088},\nkeywords ={polyoxometalates, vanillic acid, electrochemistry, sensor, photoreductant},\nurl ={https://www.sciopen.com/article/10.26599/POM.2025.9140088},\ndoi ={10.26599/POM.2025.9140088},\nabstract ={Polyoxometalates (POMs), as a unique type of metal–oxygen cluster compound, undergo multi-electron transfer while maintaining their structures. In this study, an electrochemical sensor that rapidly and sensitively detects vanillic acid was synthesized using vanadium-substituted POM (H4PMo11VO40, PMoV), reduced graphene oxide (rGO), and platinum (Pt) nanoparticles, where PMoV acted as both the photoreductant and stabilizer. In particular, PMoV/rGO/Pt composite was prepared and identified using various methods. Under optimal conditions, the limit of detection of the synthesized electrochemical sensor was estimated to be 0.9 μM at vanillic acid concentrations of 50–1350 μM. In addition, the practical application of PMoV/rGO/Pt/GCE (GCE = glassy carbon electrode) was considered by determining the concentration of vanillic acid in tap and lake water with good recovery (98.36%–102.11% and 97.11%–100.22%, respectively). The synthesized sensor realizes simple, rapid, and economical detection of vanillic acid and can serve as an important analytical tool in this direction.}\n}"
+  },
+  {
+    "doi": "10.26599/POM.2025.9140089",
+    "title": "Titanium dioxide@polyoxometalate-organic framework as an efficient photocatalyst for dye degradation under visible light conditions",
+    "authors": [
+      {
+        "name": "Hao Sun"
+      },
+      {
+        "name": "Mei Wu"
+      },
+      {
+        "name": "Danyang He"
+      },
+      {
+        "name": "Yuan Luo"
+      },
+      {
+        "name": "Wenhui Shang"
+      },
+      {
+        "name": "Yan Jiang"
+      },
+      {
+        "name": "Manyu Liu"
+      },
+      {
+        "name": "Muling Zeng"
+      },
+      {
+        "name": "Nan Wang"
+      },
+      {
+        "name": "Zhiyu Jia"
+      }
+    ],
+    "affiliations": [
+      "Beijing Key Laboratory of Photoelectronic/Electrophotonic Conversion Materials,CHINA",
+      "School of Chemistry and Chemical Enginee,CHINA",
+      "Beijing Institute of Technology, 100081,CHINA",
+      "School of Engineering,Sinkiang,CHINA",
+      "China University of Petroleum-Beijing at Karamay,Sinkiang,CHINA",
+      "Beijing Key Laboratory of Photoelectronic/Electrophotonic Conversion Materials,CHINA",
+      "School of Chemistry and Chemical Enginee,CHINA",
+      "Beijing Institute of Technology, 100081,CHINA",
+      "Beijing Key Laboratory of Photoelectronic/Electrophotonic Conversion Materials,CHINA",
+      "School of Chemistry and Chemical Enginee,CHINA",
+      "Beijing Institute of Technology, 100081,CHINA",
+      "Beijing Key Laboratory of Photoelectronic/Electrophotonic Conversion Materials,CHINA",
+      "School of Chemistry and Chemical Enginee,CHINA",
+      "Beijing Institute of Technology, 100081,CHINA",
+      "Beijing Key Laboratory of Photoelectronic/Electrophotonic Conversion Materials,CHINA",
+      "School of Chemistry and Chemical Enginee,CHINA",
+      "Beijing Institute of Technology, 100081,CHINA",
+      "Beijing Key Laboratory of Photoelectronic/Electrophotonic Conversion Materials,CHINA",
+      "School of Chemistry and Chemical Enginee,CHINA",
+      "Beijing Institute of Technology, 100081,CHINA",
+      "Institute of Materials Science of Barcelona,SPAIN",
+      "Campus de la UAB,SPAIN",
+      "Beijing Key Laboratory of Photoelectronic/Electrophotonic Conversion Materials,CHINA",
+      "School of Chemistry and Chemical Enginee,CHINA",
+      "Beijing Institute of Technology, 100081,CHINA",
+      "Beijing Key Laboratory of Photoelectronic/Electrophotonic Conversion Materials,CHINA",
+      "School of Chemistry and Chemical Enginee,CHINA",
+      "Beijing Institute of Technology, 100081,CHINA"
+    ],
+    "keywords": [
+      "polyoxometalate-organic frameworks",
+      "titanium dioxide",
+      "photocatalysis",
+      "photodegradation"
+    ],
+    "abstract": "The quality of the ecological environment is closely related to human health. Organic dyes emitted from textile industries, such as rhodamine B (RhB) and methylene blue (MB), pose a significant risk for illness in humans, thus shortening their life span. Photocatalysis is an effective and environment-friendly approach for the degradation of dyes. TiO2 has gained attention as a prospective photocatalyst since its initial use in single-crystal electrodes for water photolysis. However, its wide band gap substantially hampers its photocatalytic rate. Thus, to reduce the band gap and the recombination rates of electron–hole pairs, we incorporated TiO2 into polyoxometalate-organic frameworks (POMOFs), specifically {[Ni6(OH)3(H2O)5(PW9O34)](1,2,4-Hbtc)}·H2enMe·5H2O, to create a composite cluster TiO2@Ni6-POMOF. Composites with 1 wt.% Ni6-POMOFs exhibited the best photocatalytic efficiency and displayed high photocatalytic rates in a strongly acidic environment when used to degrade RhB and MB under visible light (450 nm). The successful integration of POMOFs with TiO2 not only offers innovative design concepts for photocatalysts with complex structures but also opens a new approach for the development of POMOF catalysts in the future.",
+    "volume": "4",
+    "issue": "2",
+    "firstpage": "9140089",
+    "lastpage": "",
+    "year": "2025",
+    "publication_date": "2025/4/28",
+    "online_date": "2025/4/28",
+    "received": "07 January 2025",
+    "revised": "24 March 2025",
+    "accepted": "06 April 2025",
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/POM.2025.9140089",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/POM.2025.9140089.pdf",
+    "internal_id": "",
+    "publisher": "清华大学出版社",
+    "issn": "2957-9821",
+    "language": "en",
+    "bibtex": "@article{Sun2025,\nauthor ={Hao Sun and Mei Wu and Danyang He and Yuan Luo and Wenhui Shang and Yan Jiang and Manyu Liu and Muling Zeng and Nan Wang and Zhiyu Jia},\ntitle ={Titanium dioxide@polyoxometalate-organic framework as an efficient photocatalyst for dye degradation under visible light conditions},\nyear ={2025},\njournal ={Polyoxometalates},\nvolume ={4},\nnumber ={2},\npages ={9140089},\nkeywords ={polyoxometalate-organic frameworks, titanium dioxide, photocatalysis, photodegradation},\nurl ={https://www.sciopen.com/article/10.26599/POM.2025.9140089},\ndoi ={10.26599/POM.2025.9140089},\nabstract ={The quality of the ecological environment is closely related to human health. Organic dyes emitted from textile industries, such as rhodamine B (RhB) and methylene blue (MB), pose a significant risk for illness in humans, thus shortening their life span. Photocatalysis is an effective and environment-friendly approach for the degradation of dyes. TiO2 has gained attention as a prospective photocatalyst since its initial use in single-crystal electrodes for water photolysis. However, its wide band gap substantially hampers its photocatalytic rate. Thus, to reduce the band gap and the recombination rates of electron–hole pairs, we incorporated TiO2 into polyoxometalate-organic frameworks (POMOFs), specifically {[Ni6(OH)3(H2O)5(PW9O34)](1,2,4-Hbtc)}·H2enMe·5H2O, to create a composite cluster TiO2@Ni6-POMOF. Composites with 1 wt.% Ni6-POMOFs exhibited the best photocatalytic efficiency and displayed high photocatalytic rates in a strongly acidic environment when used to degrade RhB and MB under visible light (450 nm). The successful integration of POMOFs with TiO2 not only offers innovative design concepts for photocatalysts with complex structures but also opens a new approach for the development of POMOF catalysts in the future.}\n}"
+  },
+  {
+    "doi": "10.26599/POM.2025.9140090",
+    "title": "Effect of bridging units on the detection performance of Cd{P&lt;sub&gt;4&lt;/sub&gt;Mo&lt;sub&gt;6&lt;/sub&gt;}&lt;sub&gt;2&lt;/sub&gt;-based electrochemical sensors for trace chromium(VI) and tetracycline",
+    "authors": [
+      {
+        "name": "Xin-Ying Ma"
+      },
+      {
+        "name": "Hao-Xue Bi"
+      },
+      {
+        "name": "Xiu-Juan Zhang"
+      },
+      {
+        "name": "Jing Du"
+      },
+      {
+        "name": "Yuan-Yuan Ma"
+      },
+      {
+        "name": "Zhan-Gang Han"
+      }
+    ],
+    "affiliations": [
+      "Hebei Engineering Research Center of Thin Film Solar Cell Materials and Devices,Hebei,CHINA",
+      "College of Chemistry and Materials Science,Hebei,CHINA",
+      "Hebei Normal University,Shijiazhuang,Hebei,CHINA",
+      "Hebei Engineering Research Center of Thin Film Solar Cell Materials and Devices,Hebei,CHINA",
+      "College of Chemistry and Materials Science,Hebei,CHINA",
+      "Hebei Normal University,Shijiazhuang,Hebei,CHINA",
+      "Hebei Engineering Research Center of Thin Film Solar Cell Materials and Devices,Hebei,CHINA",
+      "College of Chemistry and Materials Science,Hebei,CHINA",
+      "Hebei Normal University,Shijiazhuang,Hebei,CHINA",
+      "Hebei Engineering Research Center of Thin Film Solar Cell Materials and Devices,Hebei,CHINA",
+      "College of Chemistry and Materials Science,Hebei,CHINA",
+      "Hebei Normal University,Shijiazhuang,Hebei,CHINA",
+      "Hebei Engineering Research Center of Thin Film Solar Cell Materials and Devices,Hebei,CHINA",
+      "College of Chemistry and Materials Science,Hebei,CHINA",
+      "Hebei Normal University,Shijiazhuang,Hebei,CHINA",
+      "Hebei Engineering Research Center of Thin Film Solar Cell Materials and Devices,Hebei,CHINA",
+      "College of Chemistry and Materials Science,Hebei,CHINA",
+      "Hebei Normal University,Shijiazhuang,Hebei,CHINA"
+    ],
+    "keywords": [
+      "polyoxometalate",
+      "phosphomolybdate",
+      "electrochemical sensing",
+      "Cr(VI)",
+      "tetracycline"
+    ],
+    "abstract": "Exploring functional electrochemical sensors for the simultaneous detection of inorganic heavy metal ions and organic antibiotic contaminants in aquatic environments is highly significant. In this study, three reduced phosphomolybdates with distinct bridging units were hydrothermally synthesized for electrochemical sensing of trace levels of Cr(VI) and tetracycline (TC). The formulas are (H2bib)2[Cd(H2O)]2[Na(H2O)0.5][Cd(P4Mo6O31H6.5)2]·13H2O (1), (H2bib)2[Cd(bib)(H2O)]2[Cd(P4Mo6O31H7)2]·17H2O (2), and (H2bib)2Cd[Cd(P4Mo6O31H8)2]·13H2O (3) (bib = 4,4'-bis(imidazolyl)biphenyl). In hybrids 1–3, the reduced phosphomolybdate clusters [Cd(P4Mo6O31)2]22− (Cd{P4Mo6}2) feature chain-like configurations bridged by diverse cationic linkers: {[Cd(H2O)]2[Na(H2O)0.5]}5+ unit for 1, [Cd(bib)(H2O)]2+ fragment for 2, and Cd2+ for 3. Hybrids 1–3 exhibit remarkable dual-mode electrochemical responses for Cr(VI) reduction and TC oxidation because of their excellent electrochemical redox properties. The detection limits for Cr(VI) were 18.41 nM for 1, 30.86 nM for 2, and 38.90 nM for 3, with sensitivities of 122.49, 113.95, and 103.19 μA·mM−1, respectively. For TC detection, the detection limits (LODs) were 6.19 nM for 1, 9.90 nM for 2, and 23.52 nM for 3, with sensitivities of 120.84, 105.44, and 95.95 μA·mM−1, respectively. The LODs for Cr(VI) and TC reach the “nanomolar” level. This study offers a potential method for constructing multifunctional electrochemical sensors for detecting environmental pollutants.",
+    "volume": "4",
+    "issue": "2",
+    "firstpage": "9140090",
+    "lastpage": "",
+    "year": "2025",
+    "publication_date": "2025/5/8",
+    "online_date": "2025/5/8",
+    "received": "07 April 2025",
+    "revised": "20 April 2025",
+    "accepted": "22 April 2025",
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/POM.2025.9140090",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/POM.2025.9140090.pdf",
+    "internal_id": "",
+    "publisher": "清华大学出版社",
+    "issn": "2957-9821",
+    "language": "en",
+    "bibtex": "@article{Ma2025,\nauthor ={Xin-Ying Ma and Hao-Xue Bi and Xiu-Juan Zhang and Jing Du and Yuan-Yuan Ma and Zhan-Gang Han},\ntitle ={Effect of bridging units on the detection performance of Cd{P&lt;sub&gt;4&lt;/sub&gt;Mo&lt;sub&gt;6&lt;/sub&gt;}&lt;sub&gt;2&lt;/sub&gt;-based electrochemical sensors for trace chromium(VI) and tetracycline},\nyear ={2025},\njournal ={Polyoxometalates},\nvolume ={4},\nnumber ={2},\npages ={9140090},\nkeywords ={polyoxometalate, phosphomolybdate, electrochemical sensing, Cr(VI), tetracycline},\nurl ={https://www.sciopen.com/article/10.26599/POM.2025.9140090},\ndoi ={10.26599/POM.2025.9140090},\nabstract ={Exploring functional electrochemical sensors for the simultaneous detection of inorganic heavy metal ions and organic antibiotic contaminants in aquatic environments is highly significant. In this study, three reduced phosphomolybdates with distinct bridging units were hydrothermally synthesized for electrochemical sensing of trace levels of Cr(VI) and tetracycline (TC). The formulas are (H2bib)2[Cd(H2O)]2[Na(H2O)0.5][Cd(P4Mo6O31H6.5)2]·13H2O (1), (H2bib)2[Cd(bib)(H2O)]2[Cd(P4Mo6O31H7)2]·17H2O (2), and (H2bib)2Cd[Cd(P4Mo6O31H8)2]·13H2O (3) (bib = 4,4'-bis(imidazolyl)biphenyl). In hybrids 1–3, the reduced phosphomolybdate clusters [Cd(P4Mo6O31)2]22− (Cd{P4Mo6}2) feature chain-like configurations bridged by diverse cationic linkers: {[Cd(H2O)]2[Na(H2O)0.5]}5+ unit for 1, [Cd(bib)(H2O)]2+ fragment for 2, and Cd2+ for 3. Hybrids 1–3 exhibit remarkable dual-mode electrochemical responses for Cr(VI) reduction and TC oxidation because of their excellent electrochemical redox properties. The detection limits for Cr(VI) were 18.41 nM for 1, 30.86 nM for 2, and 38.90 nM for 3, with sensitivities of 122.49, 113.95, and 103.19 μA·mM−1, respectively. For TC detection, the detection limits (LODs) were 6.19 nM for 1, 9.90 nM for 2, and 23.52 nM for 3, with sensitivities of 120.84, 105.44, and 95.95 μA·mM−1, respectively. The LODs for Cr(VI) and TC reach the “nanomolar” level. This study offers a potential method for constructing multifunctional electrochemical sensors for detecting environmental pollutants.}\n}"
+  },
+  {
+    "doi": "10.26599/POM.2024.9140080",
+    "title": "One-pot gram-scale synthesis of robust copper nanoclusters for photocatalytic difluoroalkylarylation of alkenes",
+    "authors": [
+      {
+        "name": "Xiaoli Meng"
+      },
+      {
+        "name": "Ayisha He"
+      },
+      {
+        "name": "Xiaodan Yan"
+      },
+      {
+        "name": "Lin Wang"
+      },
+      {
+        "name": "Zaiwang Zhao"
+      },
+      {
+        "name": "Yanyuan Jia"
+      },
+      {
+        "name": "Jinlu He"
+      },
+      {
+        "name": "Shuo Guo"
+      },
+      {
+        "name": "Hui Shen"
+      }
+    ],
+    "affiliations": [
+      "College of Chemistry and Chemical Engineering,Inner Mongolia,CHINA",
+      "Inner Mongolia University,Inner Mongolia,CHINA",
+      "College of Energy Materials and Chemistry,Inner Mongolia,CHINA",
+      "Inner Mongolia University,Inner Mongolia,CHINA",
+      "College of Energy Materials and Chemistry,Inner Mongolia,CHINA",
+      "Inner Mongolia University,Inner Mongolia,CHINA",
+      "College of Chemistry and Chemical Engineering,Inner Mongolia,CHINA",
+      "Inner Mongolia University,Inner Mongolia,CHINA",
+      "College of Energy Materials and Chemistry,Inner Mongolia,CHINA",
+      "Inner Mongolia University,Inner Mongolia,CHINA",
+      "College of Energy Materials and Chemistry,Inner Mongolia,CHINA",
+      "Inner Mongolia University,Inner Mongolia,CHINA",
+      "College of Energy Materials and Chemistry,Inner Mongolia,CHINA",
+      "Inner Mongolia University,Inner Mongolia,CHINA",
+      "College of Chemistry and Chemical Engineering,Inner Mongolia,CHINA",
+      "Inner Mongolia University,Inner Mongolia,CHINA",
+      "College of Chemistry and Chemical Engineering,Inner Mongolia,CHINA",
+      "Inner Mongolia University,Inner Mongolia,CHINA",
+      "College of Energy Materials and Chemistry,Inner Mongolia,CHINA",
+      "Inner Mongolia University,Inner Mongolia,CHINA"
+    ],
+    "keywords": [
+      "metal clusters",
+      "catalytic reactions",
+      "copper",
+      "surface structure",
+      "cluster chemistry"
+    ],
+    "abstract": "Atomically precise copper nanoclusters have emerged as a promising class of catalysts. However, the exploration of copper nanocluster catalysts has been slow, likely because of their complicated synthesis, limited stability, and low activity under mild conditions. Herein, we present highly stable copper nanoclusters [Cu8(S2CN(CH3)2)6(PPh3)4]2+ (where S2CN(CH3)2 is dimethyldithiocarbamate and PPh3 is triphenylphosphine) with facile synthesis and high photocatalytic performance. The nanoclusters were obtained on a gram-scale through a one-pot reduction of Cu(S2CN(CH3)2)2 with (PPh3)2CuBH4 in the presence of 3,5-bis(trifluoromethyl)pyrazole. Comprehensive experimental and theoretical characterization of the nanoclusters was performed to elucidate their atomic and electronic structure and explain their high stability under light irradiation. Importantly, the nanoclusters exhibit photocatalytic activity in the difluoroalkylarylation of alkenes at room temperature, yielding a wide range of complex difluoromethyl compounds under mild conditions. This study not only presents an efficient strategy for the synthesis of copper nanoclusters with atomically precise and highly robust structures but also highlights the potential of atomically precise copper nanocluster catalysts in the rapid construction of molecular complexity with substantial material economy.",
+    "volume": "4",
+    "issue": "3",
+    "firstpage": "9140080",
+    "lastpage": "",
+    "year": "2025",
+    "publication_date": "2025/9/1",
+    "online_date": "2024/10/23",
+    "received": "15 August 2024",
+    "revised": "11 September 2024",
+    "accepted": "28 September 2024",
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/POM.2024.9140080",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/POM.2024.9140080.pdf",
+    "internal_id": "",
+    "publisher": "清华大学出版社",
+    "issn": "2957-9821",
+    "language": "en",
+    "bibtex": "@article{Meng2025,\nauthor ={Xiaoli Meng and Ayisha He and Xiaodan Yan and Lin Wang and Zaiwang Zhao and Yanyuan Jia and Jinlu He and Shuo Guo and Hui Shen},\ntitle ={One-pot gram-scale synthesis of robust copper nanoclusters for photocatalytic difluoroalkylarylation of alkenes},\nyear ={2025},\njournal ={Polyoxometalates},\nvolume ={4},\nnumber ={3},\npages ={9140080},\nkeywords ={metal clusters, catalytic reactions, copper, surface structure, cluster chemistry},\nurl ={https://www.sciopen.com/article/10.26599/POM.2024.9140080},\ndoi ={10.26599/POM.2024.9140080},\nabstract ={Atomically precise copper nanoclusters have emerged as a promising class of catalysts. However, the exploration of copper nanocluster catalysts has been slow, likely because of their complicated synthesis, limited stability, and low activity under mild conditions. Herein, we present highly stable copper nanoclusters [Cu8(S2CN(CH3)2)6(PPh3)4]2+ (where S2CN(CH3)2 is dimethyldithiocarbamate and PPh3 is triphenylphosphine) with facile synthesis and high photocatalytic performance. The nanoclusters were obtained on a gram-scale through a one-pot reduction of Cu(S2CN(CH3)2)2 with (PPh3)2CuBH4 in the presence of 3,5-bis(trifluoromethyl)pyrazole. Comprehensive experimental and theoretical characterization of the nanoclusters was performed to elucidate their atomic and electronic structure and explain their high stability under light irradiation. Importantly, the nanoclusters exhibit photocatalytic activity in the difluoroalkylarylation of alkenes at room temperature, yielding a wide range of complex difluoromethyl compounds under mild conditions. This study not only presents an efficient strategy for the synthesis of copper nanoclusters with atomically precise and highly robust structures but also highlights the potential of atomically precise copper nanocluster catalysts in the rapid construction of molecular complexity with substantial material economy.}\n}"
+  },
+  {
+    "doi": "10.26599/POM.2025.9140091",
+    "title": "Thiacalix[4]arene-functionalized molecular clusters involving the Keggin-type PM&lt;sub&gt;4&lt;/sub&gt;Mo&lt;sub&gt;8&lt;/sub&gt; (M = Co, Ni) motif: Electrochemical and photothermal conversion properties",
+    "authors": [
+      {
+        "name": "Qing Zhao"
+      },
+      {
+        "name": "Dong-Ao Mao"
+      },
+      {
+        "name": "Liang-Liang Huang"
+      },
+      {
+        "name": "Kun Zhou"
+      },
+      {
+        "name": "Hong-Rui Tian"
+      },
+      {
+        "name": "Bao-Kuan Chen"
+      },
+      {
+        "name": "Yan-Feng Bi"
+      }
+    ],
+    "affiliations": [
+      "School of Petrochemical Engineering,CHINA",
+      "Liaoning Petrochemical University,CHINA",
+      "School of Petrochemical Engineering,CHINA",
+      "Liaoning Petrochemical University,CHINA",
+      "School of Petrochemical Engineering,CHINA",
+      "Liaoning Petrochemical University,CHINA",
+      "School of Petrochemical Engineering,CHINA",
+      "Liaoning Petrochemical University,CHINA",
+      "School of Petrochemical Engineering,CHINA",
+      "Liaoning Petrochemical University,CHINA",
+      "School of Petrochemical Engineering,CHINA",
+      "Liaoning Petrochemical University,CHINA",
+      "School of Petrochemical Engineering,CHINA",
+      "Liaoning Petrochemical University,CHINA"
+    ],
+    "keywords": [
+      "Keggin-type polyoxometalate",
+      "thiacalix[4]arene",
+      "electrochemical property",
+      "photothermal conversion"
+    ],
+    "abstract": "Herein, four new thiacalixarene-functionalized polyoxometalate clusters, [Na2.5(H2O)2.5Co4(TC4A)PMo8O32][(CH3)2NH2]4.5(CH3OH)(DMF)1.5(H2O) (PCo4Mo8 (1), H4TC4A = p-tert-butylthiacalix[4]arene), [H4Ni4(TC4A)PMo8O32][(CH3)2NH2]3(DMF)4(CH3OH)2(H2O)2 (PNi4Mo8 (2)), and [M4(TC4A)PMo8VO33][N(CH3)4]2[HN(CH3)3][(CH3)2NH2](DMF)2(CH3OH)5 (M = Co, PCo4Mo8V (3); M = Ni, PNi4Mo8V (4)), were synthesized under solvothermal conditions and characterized using single-crystal X-ray diffraction. These four clusters were found to contain Keggin-type PM4Mo8 motifs, exhibiting redox properties similar to those of PMo12O403− (PMo12), superior structural stability, and the ability to electrocatalytically reduce IO3−. The substitution of the four metal ions, along with the capping with the TC4A ligand and VO unit, considerably modulated the visible-light absorption of the clusters, enhancing the photothermal conversion in the solid-state and organic solutions. The efficiency of the photothermal conversion revealed that the absorption of visible light relies on electron transfer pathways, which were elucidated through band gap analysis, density functional theory calculations, and X-ray photoelectron spectroscopy.",
+    "volume": "4",
+    "issue": "3",
+    "firstpage": "9140091",
+    "lastpage": "",
+    "year": "2025",
+    "publication_date": "2025/6/16",
+    "online_date": "2025/6/16",
+    "received": "07 April 2025",
+    "revised": "14 May 2025",
+    "accepted": "28 May 2025",
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/POM.2025.9140091",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/POM.2025.9140091.pdf",
+    "internal_id": "",
+    "publisher": "清华大学出版社",
+    "issn": "2957-9821",
+    "language": "en",
+    "bibtex": "@article{Zhao2025,\nauthor ={Qing Zhao and Dong-Ao Mao and Liang-Liang Huang and Kun Zhou and Hong-Rui Tian and Bao-Kuan Chen and Yan-Feng Bi},\ntitle ={Thiacalix[4]arene-functionalized molecular clusters involving the Keggin-type PM&lt;sub&gt;4&lt;/sub&gt;Mo&lt;sub&gt;8&lt;/sub&gt; (M = Co, Ni) motif: Electrochemical and photothermal conversion properties},\nyear ={2025},\njournal ={Polyoxometalates},\nvolume ={4},\nnumber ={3},\npages ={9140091},\nkeywords ={Keggin-type polyoxometalate, thiacalix[4]arene, electrochemical property, photothermal conversion},\nurl ={https://www.sciopen.com/article/10.26599/POM.2025.9140091},\ndoi ={10.26599/POM.2025.9140091},\nabstract ={Herein, four new thiacalixarene-functionalized polyoxometalate clusters, [Na2.5(H2O)2.5Co4(TC4A)PMo8O32][(CH3)2NH2]4.5(CH3OH)(DMF)1.5(H2O) (PCo4Mo8 (1), H4TC4A = p-tert-butylthiacalix[4]arene), [H4Ni4(TC4A)PMo8O32][(CH3)2NH2]3(DMF)4(CH3OH)2(H2O)2 (PNi4Mo8 (2)), and [M4(TC4A)PMo8VO33][N(CH3)4]2[HN(CH3)3][(CH3)2NH2](DMF)2(CH3OH)5 (M = Co, PCo4Mo8V (3); M = Ni, PNi4Mo8V (4)), were synthesized under solvothermal conditions and characterized using single-crystal X-ray diffraction. These four clusters were found to contain Keggin-type PM4Mo8 motifs, exhibiting redox properties similar to those of PMo12O403− (PMo12), superior structural stability, and the ability to electrocatalytically reduce IO3−. The substitution of the four metal ions, along with the capping with the TC4A ligand and VO unit, considerably modulated the visible-light absorption of the clusters, enhancing the photothermal conversion in the solid-state and organic solutions. The efficiency of the photothermal conversion revealed that the absorption of visible light relies on electron transfer pathways, which were elucidated through band gap analysis, density functional theory calculations, and X-ray photoelectron spectroscopy.}\n}"
+  },
+  {
+    "doi": "10.26599/POM.2025.9140092",
+    "title": "Stearic acid-modified hexavanadate vesicles loaded with hydroxy fatty acid esters synergistically improve obesity-related metabolic disorders and inflammation",
+    "authors": [
+      {
+        "name": "Pengyu Wu"
+      },
+      {
+        "name": "Pengcheng Cui"
+      },
+      {
+        "name": "Yingying Wang"
+      },
+      {
+        "name": "Kun Chen"
+      }
+    ],
+    "affiliations": [
+      "College of Materials Science &amp; Engineering,CHINA",
+      "South China University of Technology,CHINA",
+      "South China Advanced Institute for Soft Matter Science and Technology,CHINA",
+      "School of Emergent Soft Matter,CHINA",
+      "South China University of Technology,CHINA",
+      "Guangdong Provincial Key Laboratory of Functional and Intelligent Hybrid Materials and Devices,CHINA",
+      "South China University of Technology,CHINA",
+      "South China Advanced Institute for Soft Matter Science and Technology,CHINA",
+      "School of Emergent Soft Matter,CHINA",
+      "South China University of Technology,CHINA",
+      "Guangdong Provincial Key Laboratory of Functional and Intelligent Hybrid Materials and Devices,CHINA",
+      "South China University of Technology,CHINA",
+      "South China Advanced Institute for Soft Matter Science and Technology,CHINA",
+      "School of Emergent Soft Matter,CHINA",
+      "South China University of Technology,CHINA",
+      "Guangdong Provincial Key Laboratory of Functional and Intelligent Hybrid Materials and Devices,CHINA",
+      "South China University of Technology,CHINA",
+      "South China Advanced Institute for Soft Matter Science and Technology,CHINA",
+      "School of Emergent Soft Matter,CHINA",
+      "South China University of Technology,CHINA"
+    ],
+    "keywords": [
+      "polyoxometalates",
+      "fatty acid-modification",
+      "palmitic acid hydroxystearic acids",
+      "obesity-associated metabolic disorders",
+      "insulin resistance",
+      "adipose tissue inflammation"
+    ],
+    "abstract": "Obesity-induced insulin resistance and chronic inflammation pose considerable therapeutic challenges, requiring innovative approaches to address the underlying metabolic dysregulation. We have developed stearic acid-modified hexavanadate (SA-V6) vesicles, a self-assembling nanoplatform designed for efficient loading and delivery of palmitic acid hydroxystearic acids (PAHSAs). In a murine model of high-fat diet (HFD)-induced obesity, SA-V6/PAHSA vesicles demonstrated increased intestinal absorption, leading to a synergistic alleviation of glucose–lipid metabolic disturbances through increased secretion of insulin and glucagon-like peptide (GLP-1), resulting in improved glycemic control and normalized serum lipid profiles. Additionally, the hybrid vesicles suppressed the secretion of proinflammatory cytokines in adipose tissue while activating the GPR120 and insulin signaling pathways, a dual mechanism crucial for restoring metabolic homeostasis. By combining nanomaterial design with multifunctional bioactive cargo, this study introduces a promising therapeutic strategy to address obesity-related metabolic dysfunction and inflammation. The dual effect of SA-V6/PAHSA vesicles, which increase insulin and GLP-1 secretion while activating the GPR120 pathway, underscores their potential as a translatable platform for accurate management of complex metabolic disorders.",
+    "volume": "4",
+    "issue": "3",
+    "firstpage": "9140092",
+    "lastpage": "",
+    "year": "2025",
+    "publication_date": "2025/9/30",
+    "online_date": "2025/7/11",
+    "received": "01 May 2025",
+    "revised": "22 May 2025",
+    "accepted": "04 June 2025",
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/POM.2025.9140092",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/POM.2025.9140092.pdf",
+    "internal_id": "",
+    "publisher": "清华大学出版社",
+    "issn": "2957-9821",
+    "language": "en",
+    "bibtex": "@article{Wu2025,\nauthor ={Pengyu Wu and Pengcheng Cui and Yingying Wang and Kun Chen},\ntitle ={Stearic acid-modified hexavanadate vesicles loaded with hydroxy fatty acid esters synergistically improve obesity-related metabolic disorders and inflammation},\nyear ={2025},\njournal ={Polyoxometalates},\nvolume ={4},\nnumber ={3},\npages ={9140092},\nkeywords ={polyoxometalates, fatty acid-modification, palmitic acid hydroxystearic acids, obesity-associated metabolic disorders, insulin resistance, adipose tissue inflammation},\nurl ={https://www.sciopen.com/article/10.26599/POM.2025.9140092},\ndoi ={10.26599/POM.2025.9140092},\nabstract ={Obesity-induced insulin resistance and chronic inflammation pose considerable therapeutic challenges, requiring innovative approaches to address the underlying metabolic dysregulation. We have developed stearic acid-modified hexavanadate (SA-V6) vesicles, a self-assembling nanoplatform designed for efficient loading and delivery of palmitic acid hydroxystearic acids (PAHSAs). In a murine model of high-fat diet (HFD)-induced obesity, SA-V6/PAHSA vesicles demonstrated increased intestinal absorption, leading to a synergistic alleviation of glucose–lipid metabolic disturbances through increased secretion of insulin and glucagon-like peptide (GLP-1), resulting in improved glycemic control and normalized serum lipid profiles. Additionally, the hybrid vesicles suppressed the secretion of proinflammatory cytokines in adipose tissue while activating the GPR120 and insulin signaling pathways, a dual mechanism crucial for restoring metabolic homeostasis. By combining nanomaterial design with multifunctional bioactive cargo, this study introduces a promising therapeutic strategy to address obesity-related metabolic dysfunction and inflammation. The dual effect of SA-V6/PAHSA vesicles, which increase insulin and GLP-1 secretion while activating the GPR120 pathway, underscores their potential as a translatable platform for accurate management of complex metabolic disorders.}\n}"
+  },
+  {
+    "doi": "10.26599/POM.2025.9140094",
+    "title": "Water oxidation catalyzed by polyoxometalate containing iron cubane structure under visible light",
+    "authors": [
+      {
+        "name": "Khuram Hasnain"
+      },
+      {
+        "name": "Yu Feng"
+      },
+      {
+        "name": "Bin Song"
+      },
+      {
+        "name": "Bonan Li"
+      },
+      {
+        "name": "Khalid Umer"
+      },
+      {
+        "name": "Mengxue Chen"
+      },
+      {
+        "name": "Zixuan Tang"
+      },
+      {
+        "name": "Baochun Ma"
+      },
+      {
+        "name": "Yong Ding"
+      }
+    ],
+    "affiliations": [
+      "Key Laboratory of Advanced Catalysis of Gansu Province,College of Chemistry and Chemical Engineering, Lanzhou University,State Key Laboratory of Applied Organic Chemistry,College of Chemistry and Chemical Engineering, Lanzhou University",
+      "Key Laboratory of Advanced Catalysis of Gansu Province,College of Chemistry and Chemical Engineering, Lanzhou University,State Key Laboratory of Applied Organic Chemistry,College of Chemistry and Chemical Engineering, Lanzhou University",
+      "Key Laboratory of Advanced Catalysis of Gansu Province,College of Chemistry and Chemical Engineering, Lanzhou University,State Key Laboratory of Applied Organic Chemistry,College of Chemistry and Chemical Engineering, Lanzhou University",
+      "Key Laboratory of Advanced Catalysis of Gansu Province,College of Chemistry and Chemical Engineering, Lanzhou University,State Key Laboratory of Applied Organic Chemistry,College of Chemistry and Chemical Engineering, Lanzhou University",
+      "Key Laboratory of Advanced Catalysis of Gansu Province,College of Chemistry and Chemical Engineering, Lanzhou University,State Key Laboratory of Applied Organic Chemistry,College of Chemistry and Chemical Engineering, Lanzhou University",
+      "Key Laboratory of Advanced Catalysis of Gansu Province,College of Chemistry and Chemical Engineering, Lanzhou University,State Key Laboratory of Applied Organic Chemistry,College of Chemistry and Chemical Engineering, Lanzhou University",
+      "Key Laboratory of Advanced Catalysis of Gansu Province,College of Chemistry and Chemical Engineering, Lanzhou University,State Key Laboratory of Applied Organic Chemistry,College of Chemistry and Chemical Engineering, Lanzhou University",
+      "Key Laboratory of Advanced Catalysis of Gansu Province,College of Chemistry and Chemical Engineering, Lanzhou University,State Key Laboratory of Applied Organic Chemistry,College of Chemistry and Chemical Engineering, Lanzhou University",
+      "Key Laboratory of Advanced Catalysis of Gansu Province,College of Chemistry and Chemical Engineering, Lanzhou University,State Key Laboratory of Applied Organic Chemistry,College of Chemistry and Chemical Engineering, Lanzhou University,State Key Laboratory of Low Carbon Catalysis and Carbon Dioxide Utilization,CHINA",
+      "Lanzhou Institute of Chemical Physics,CHINA",
+      "Chinese Academy of Sciences, 100101,CHINA",
+      "State Key Laboratory for Oxo Synthesis and Selective Oxidation,CHINA",
+      "Lanzhou Institute of Chemical Physics,CHINA",
+      "Chinese Academy of Sciences, 100101,CHINA"
+    ],
+    "keywords": [
+      "polyoxometalate",
+      "iron",
+      "cubane",
+      "water oxidation",
+      "visible light"
+    ],
+    "abstract": "Hydrogen is a renewable and clean energy source that can be produced using photocatalytic water splitting, a promising technique to address environmental challenges. Photocatalytic water splitting involves two half-reactions: hydrogen evolution and oxygen evolution. The water oxidation reaction is the rate-limiting step due to its complex four-electron, four-proton transfer process. In this study, three iron-containing polyoxometalate (POM) catalysts—Na21[NaFe15(OH)12(PO4)4(A-α-SiW9O34)4]·85H2O (Fe15POM), Cs4.5K14Na1.5[Na2Fe14(OH)12(PO4)4(A-α-SiW9O34)4]·105H2O·2Na3PO4 (Fe14POM), and K5[SiFe(H2O)W11O39] (FeSiW11)—were synthesized. Among them, Fe15POM incorporates an Fe4O4 cubane structure. The photocatalytic water oxidation activities of these catalysts were investigated in a dye-sensitized system comprising [Ru(bpy)3]2+ as the photosensitizer and S2O82− as the sacrificial electron acceptor. Reaction conditions were optimized by varying the concentrations of the photosensitizer, sacrificial reagent, and POMs. In addition, the effects of pH, reaction process, and catalyst stability were evaluated using a range of characterization techniques. Fe15POM exhibited the highest activity among the tested catalysts, generating 5.40 μmol of O2 with a yield of 14.4%. The cubane structure not only improves the stability of the iron-based POM but also facilitates efficient charge transfer during water oxidation. This study offers a new direction for the development of iron-based cubane POMs for efficient water oxidation catalysis.",
+    "volume": "4",
+    "issue": "3",
+    "firstpage": "9140094",
+    "lastpage": "",
+    "year": "2025",
+    "publication_date": "2025/9/30",
+    "online_date": "2025/7/22",
+    "received": "06 April 2025",
+    "revised": "09 June 2025",
+    "accepted": "18 June 2025",
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/POM.2025.9140094",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/POM.2025.9140094.pdf",
+    "internal_id": "",
+    "publisher": "清华大学出版社",
+    "issn": "2957-9821",
+    "language": "en",
+    "bibtex": "@article{Hasnain2025,\nauthor ={Khuram Hasnain and Yu Feng and Bin Song and Bonan Li and Khalid Umer and Mengxue Chen and Zixuan Tang and Baochun Ma and Yong Ding},\ntitle ={Water oxidation catalyzed by polyoxometalate containing iron cubane structure under visible light},\nyear ={2025},\njournal ={Polyoxometalates},\nvolume ={4},\nnumber ={3},\npages ={9140094},\nkeywords ={polyoxometalate, iron, cubane, water oxidation, visible light},\nurl ={https://www.sciopen.com/article/10.26599/POM.2025.9140094},\ndoi ={10.26599/POM.2025.9140094},\nabstract ={Hydrogen is a renewable and clean energy source that can be produced using photocatalytic water splitting, a promising technique to address environmental challenges. Photocatalytic water splitting involves two half-reactions: hydrogen evolution and oxygen evolution. The water oxidation reaction is the rate-limiting step due to its complex four-electron, four-proton transfer process. In this study, three iron-containing polyoxometalate (POM) catalysts—Na21[NaFe15(OH)12(PO4)4(A-α-SiW9O34)4]·85H2O (Fe15POM), Cs4.5K14Na1.5[Na2Fe14(OH)12(PO4)4(A-α-SiW9O34)4]·105H2O·2Na3PO4 (Fe14POM), and K5[SiFe(H2O)W11O39] (FeSiW11)—were synthesized. Among them, Fe15POM incorporates an Fe4O4 cubane structure. The photocatalytic water oxidation activities of these catalysts were investigated in a dye-sensitized system comprising [Ru(bpy)3]2+ as the photosensitizer and S2O82− as the sacrificial electron acceptor. Reaction conditions were optimized by varying the concentrations of the photosensitizer, sacrificial reagent, and POMs. In addition, the effects of pH, reaction process, and catalyst stability were evaluated using a range of characterization techniques. Fe15POM exhibited the highest activity among the tested catalysts, generating 5.40 μmol of O2 with a yield of 14.4%. The cubane structure not only improves the stability of the iron-based POM but also facilitates efficient charge transfer during water oxidation. This study offers a new direction for the development of iron-based cubane POMs for efficient water oxidation catalysis.}\n}"
+  },
+  {
+    "doi": "10.26599/POM.2025.9140095",
+    "title": "Circularly polarized luminescence enhancement in rare-earth MOFs due to framework chirality and host–guest energy transfer",
+    "authors": [
+      {
+        "name": "Tong Hao"
+      },
+      {
+        "name": "Bei Xu"
+      },
+      {
+        "name": "Xinchao Wang"
+      },
+      {
+        "name": "Hongrui Zheng"
+      },
+      {
+        "name": "Shangda Li"
+      },
+      {
+        "name": "Fei Wang"
+      },
+      {
+        "name": "Jian Zhang"
+      }
+    ],
+    "affiliations": [
+      "State Key Laboratory of Structural Chemistry,CHINA",
+      "Fujian Institute of Research on the Structure of Matter,CHINA",
+      "Chinese Academy of Sciences, 100101,CHINA",
+      "State Key Laboratory of Structural Chemistry,CHINA",
+      "Fujian Institute of Research on the Structure of Matter,CHINA",
+      "Chinese Academy of Sciences, 100101,CHINA",
+      "State Key Laboratory of Structural Chemistry,CHINA",
+      "Fujian Institute of Research on the Structure of Matter,CHINA",
+      "Chinese Academy of Sciences, 100101,CHINA",
+      "State Key Laboratory of Structural Chemistry,CHINA",
+      "Fujian Institute of Research on the Structure of Matter,CHINA",
+      "Chinese Academy of Sciences, 100101,CHINA",
+      "State Key Laboratory of Structural Chemistry,CHINA",
+      "Fujian Institute of Research on the Structure of Matter,CHINA",
+      "Chinese Academy of Sciences, 100101,CHINA",
+      "State Key Laboratory of Structural Chemistry,CHINA",
+      "Fujian Institute of Research on the Structure of Matter,CHINA",
+      "Chinese Academy of Sciences, 100101,CHINA",
+      "State Key Laboratory of Structural Chemistry,CHINA",
+      "Fujian Institute of Research on the Structure of Matter,CHINA",
+      "Chinese Academy of Sciences, 100101,CHINA"
+    ],
+    "keywords": [
+      "chiral metal–organic frameworks",
+      "rare-earth metal",
+      "circularly polarized luminescence",
+      "host–guest chemistry"
+    ],
+    "abstract": "Owing to their tunable structures and strong emission, chiral metal–organic frameworks (CMOFs) incorporating rare-earth ions hold great promise for circularly polarized luminescence (CPL). Herein, enantiomeric rare-earth CMOFs are synthesized via the direct self-assembly of optically pure ligands (1,3-bis((S)- and (R)-1-carboxyethyl)-1H-imidazol-3-ium chlorides) with Tb3+ ions and shown to exhibit CPL with a dissymmetry factor (|glum|) of 0.016, which is attributed to efficient chirality transfer and the antenna effect. The introduction of a luminescent guest (MnCl42−) into the framework channels markedly enhances CPL and increases |glum| to 0.071. The results of control experiments and spectral analysis indicate that this enhancement arises from the synergy between host–guest energy transfer and chirality transfer. This work describes a modular strategy for constructing CPL-active rare-earth CMOFs and provides a general design principle for tuning their chiroptical properties through host–guest interactions.",
+    "volume": "4",
+    "issue": "3",
+    "firstpage": "9140095",
+    "lastpage": "",
+    "year": "2025",
+    "publication_date": "2025/9/30",
+    "online_date": "2025/7/11",
+    "received": "12 May 2025",
+    "revised": "04 June 2025",
+    "accepted": "18 June 2025",
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/POM.2025.9140095",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/POM.2025.9140095.pdf",
+    "internal_id": "",
+    "publisher": "清华大学出版社",
+    "issn": "2957-9821",
+    "language": "en",
+    "bibtex": "@article{Hao2025,\nauthor ={Tong Hao and Bei Xu and Xinchao Wang and Hongrui Zheng and Shangda Li and Fei Wang and Jian Zhang},\ntitle ={Circularly polarized luminescence enhancement in rare-earth MOFs due to framework chirality and host–guest energy transfer},\nyear ={2025},\njournal ={Polyoxometalates},\nvolume ={4},\nnumber ={3},\npages ={9140095},\nkeywords ={chiral metal–organic frameworks, rare-earth metal, circularly polarized luminescence, host–guest chemistry},\nurl ={https://www.sciopen.com/article/10.26599/POM.2025.9140095},\ndoi ={10.26599/POM.2025.9140095},\nabstract ={Owing to their tunable structures and strong emission, chiral metal–organic frameworks (CMOFs) incorporating rare-earth ions hold great promise for circularly polarized luminescence (CPL). Herein, enantiomeric rare-earth CMOFs are synthesized via the direct self-assembly of optically pure ligands (1,3-bis((S)- and (R)-1-carboxyethyl)-1H-imidazol-3-ium chlorides) with Tb3+ ions and shown to exhibit CPL with a dissymmetry factor (|glum|) of 0.016, which is attributed to efficient chirality transfer and the antenna effect. The introduction of a luminescent guest (MnCl42−) into the framework channels markedly enhances CPL and increases |glum| to 0.071. The results of control experiments and spectral analysis indicate that this enhancement arises from the synergy between host–guest energy transfer and chirality transfer. This work describes a modular strategy for constructing CPL-active rare-earth CMOFs and provides a general design principle for tuning their chiroptical properties through host–guest interactions.}\n}"
+  },
+  {
+    "doi": "10.26599/POM.2025.9140096",
+    "title": "Nickel-substituted polyoxometalate-CdS single-cluster photocatalysts for efficient plastic waste degradation coupled with H&lt;sub&gt;2&lt;/sub&gt; production",
+    "authors": [
+      {
+        "name": "Shen-Yue Xu"
+      },
+      {
+        "name": "Ping Wang"
+      },
+      {
+        "name": "Bo-Wen Zhang"
+      },
+      {
+        "name": "Cheng Wang"
+      },
+      {
+        "name": "Jingxiang Low"
+      },
+      {
+        "name": "Vladimir K. Ivanov"
+      },
+      {
+        "name": "Zhi-Ming Zhang"
+      }
+    ],
+    "affiliations": [
+      "Institute for New Energy Materials and Low-Carbon Technologies,CHINA",
+      "School of Materials Science and Engineering,CHINA",
+      "Tianjin University of Technology, 300384,CHINA",
+      "Institute for New Energy Materials and Low-Carbon Technologies,CHINA",
+      "School of Materials Science and Engineering,CHINA",
+      "Tianjin University of Technology, 300384,CHINA",
+      "Institute for New Energy Materials and Low-Carbon Technologies,CHINA",
+      "School of Materials Science and Engineering,CHINA",
+      "Tianjin University of Technology, 300384,CHINA",
+      "Institute for New Energy Materials and Low-Carbon Technologies,CHINA",
+      "School of Materials Science and Engineering,CHINA",
+      "Tianjin University of Technology, 300384,CHINA",
+      "School of Physical Science and Technology,Tianjin,CHINA",
+      "Tiangong University,Tianjin,Tianjin,CHINA",
+      "Kurnakov Institute of General and Inorganic Chemistry,RUSSIAN FEDERATION",
+      "Russian Academy of Science,RUSSIAN FEDERATION",
+      "Institute for New Energy Materials and Low-Carbon Technologies,CHINA",
+      "School of Materials Science and Engineering,CHINA",
+      "Tianjin University of Technology, 300384,CHINA"
+    ],
+    "keywords": [
+      "polyoxometalate",
+      "plastic waste degradation",
+      "photocatalysis",
+      "hydrogen evolution"
+    ],
+    "abstract": "The photocatalytic degradation of plastic waste represents a pivotal strategy for mitigating the global plastic pollution and fostering resource-efficient utilization. Herein, a facile impregnation method was used to uniformly load various Ni-substituted polyoxometalates (Ni-POMs) onto CdS nanospheres and thus obtain a series of single-cluster Ni-POM@CdS photocatalysts. During visible-light irradiation for 10 h, the catalyst with the highest synergistic photoredox performance (Ni9@CdS-10) achieved an exceptional extent of polylactic acid degradation and H2 productivity (22.29 mmol·gcat−1) exceeding that of pristine CdS ~ 160-fold. The generation of pyruvate—a versatile and valuable chemical—as a degradation product (19.01 mmol·gcat−1) rendered the process highly economically viable. Systematic control experiments and comprehensive characterization analyses indicate that the photocatalytic degradation of plastic waste by Ni9@CdS-10 proceeds via a charge transfer–mediated mechanism, with the Ni9 clusters acting as electron sponges and efficiently extracting photogenerated electrons from CdS to promote H2 evolution while facilitating hole-dominated plastic oxidation. This work provides valuable insights into the development of plastic waste degradation processes promoted by Ni-POM photocatalysts and establishes a practical strategy for converting plastic waste into fuels and chemicals.",
+    "volume": "4",
+    "issue": "3",
+    "firstpage": "9140096",
+    "lastpage": "",
+    "year": "2025",
+    "publication_date": "2025/9/30",
+    "online_date": "2025/7/28",
+    "received": "26 March 2025",
+    "revised": "18 June 2025",
+    "accepted": "23 June 2025",
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/POM.2025.9140096",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/POM.2025.9140096.pdf",
+    "internal_id": "",
+    "publisher": "清华大学出版社",
+    "issn": "2957-9821",
+    "language": "en",
+    "bibtex": "@article{Xu2025,\nauthor ={Shen-Yue Xu and Ping Wang and Bo-Wen Zhang and Cheng Wang and Jingxiang Low and Vladimir K. Ivanov and Zhi-Ming Zhang},\ntitle ={Nickel-substituted polyoxometalate-CdS single-cluster photocatalysts for efficient plastic waste degradation coupled with H&lt;sub&gt;2&lt;/sub&gt; production},\nyear ={2025},\njournal ={Polyoxometalates},\nvolume ={4},\nnumber ={3},\npages ={9140096},\nkeywords ={polyoxometalate, plastic waste degradation, photocatalysis, hydrogen evolution},\nurl ={https://www.sciopen.com/article/10.26599/POM.2025.9140096},\ndoi ={10.26599/POM.2025.9140096},\nabstract ={The photocatalytic degradation of plastic waste represents a pivotal strategy for mitigating the global plastic pollution and fostering resource-efficient utilization. Herein, a facile impregnation method was used to uniformly load various Ni-substituted polyoxometalates (Ni-POMs) onto CdS nanospheres and thus obtain a series of single-cluster Ni-POM@CdS photocatalysts. During visible-light irradiation for 10 h, the catalyst with the highest synergistic photoredox performance (Ni9@CdS-10) achieved an exceptional extent of polylactic acid degradation and H2 productivity (22.29 mmol·gcat−1) exceeding that of pristine CdS ~ 160-fold. The generation of pyruvate—a versatile and valuable chemical—as a degradation product (19.01 mmol·gcat−1) rendered the process highly economically viable. Systematic control experiments and comprehensive characterization analyses indicate that the photocatalytic degradation of plastic waste by Ni9@CdS-10 proceeds via a charge transfer–mediated mechanism, with the Ni9 clusters acting as electron sponges and efficiently extracting photogenerated electrons from CdS to promote H2 evolution while facilitating hole-dominated plastic oxidation. This work provides valuable insights into the development of plastic waste degradation processes promoted by Ni-POM photocatalysts and establishes a practical strategy for converting plastic waste into fuels and chemicals.}\n}"
+  },
+  {
+    "doi": "10.26599/POM.2025.9140097",
+    "title": "Boosting electrochemical reduction of CO&lt;sub&gt;2&lt;/sub&gt; to CO via fixation Keggin-type polyoxoanions XW&lt;sub&gt;11&lt;/sub&gt;Co (X = Si, P, Co) into ZIF-8 cavities: Pivotal role of central atoms in catalytic performance",
+    "authors": [
+      {
+        "name": "Can Li"
+      },
+      {
+        "name": "Yan Zhang"
+      },
+      {
+        "name": "Lei Shu"
+      },
+      {
+        "name": "Yun-Lei Teng"
+      },
+      {
+        "name": "Yan-Rong Wang"
+      },
+      {
+        "name": "Bao-Xia Dong"
+      }
+    ],
+    "affiliations": [
+      "School of Chemistry and Chemical Engineering,CHINA",
+      "Yangzhou University, 225009,CHINA",
+      "School of Chemistry and Chemical Engineering,CHINA",
+      "Yangzhou University, 225009,CHINA",
+      "School of Chemistry and Chemical Engineering,CHINA",
+      "Yangzhou University, 225009,CHINA",
+      "School of Chemistry and Chemical Engineering,CHINA",
+      "Yangzhou University, 225009,CHINA",
+      "School of Chemistry and Chemical Engineering,CHINA",
+      "Yangzhou University, 225009,CHINA",
+      "School of Chemistry and Chemical Engineering,CHINA",
+      "Yangzhou University, 225009,CHINA"
+    ],
+    "keywords": [
+      "synthetic encapsulation",
+      "electrochemical reduction of carbon dioxide",
+      "Keggin",
+      "polyoxometalate",
+      "ZIF-8"
+    ],
+    "abstract": "A series of polyoxometalate (POM)-based metal–organic framework composites, XW11Co@ZIF-8 (X = Si, P, Co), were prepared by encapsulating single cobalt-substituted Keggin XW11Co polyoxoanions into the cavities of ZIF-8 at ambient temperature using a synthetic encapsulation strategy. This study investigated the impact of the central atoms in POMs on the electrochemical reduction of carbon dioxide (eCO2RR). The results of the electrochemical test illustrated a significant enhancement in the current densities and eCO2RR performance of the composites compared with pristine ZIF-8. Specifically, CoW11Co@ZIF-8 exhibited 72.4% CO selectivity at a potential of −1.10 V vs. reversible hydrogen electrode (RHE), which was 1.5 times higher than that of ZIF-8 under the same potential. SiW11Co@ZIF-8 and PW11Co@ZIF-8 also exhibited improved electrocatalytic performance, though less pronounced, with faradaic efficiency for CO production (FECO) values of 63.6% and 57.0%, respectively. The central atom in XW11Co significantly affects the catalytic performance of the composites. The [CoIIIW11O39CoII(H2O)]7– species carries more negative charges, enabling the provision of additional electrons to the active sites. Consequently, CoW11Co@ZIF-8 exhibited the highest negative charge and charge transfer efficiency, the largest electrochemically active surface area, and the highest eCO2RR activity.",
+    "volume": "4",
+    "issue": "3",
+    "firstpage": "9140097",
+    "lastpage": "",
+    "year": "2025",
+    "publication_date": "2025/9/30",
+    "online_date": "2025/7/28",
+    "received": "04 May 2025",
+    "revised": "12 June 2025",
+    "accepted": "28 June 2025",
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/POM.2025.9140097",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/POM.2025.9140097.pdf",
+    "internal_id": "",
+    "publisher": "清华大学出版社",
+    "issn": "2957-9821",
+    "language": "en",
+    "bibtex": "@article{Li2025,\nauthor ={Can Li and Yan Zhang and Lei Shu and Yun-Lei Teng and Yan-Rong Wang and Bao-Xia Dong},\ntitle ={Boosting electrochemical reduction of CO&lt;sub&gt;2&lt;/sub&gt; to CO via fixation Keggin-type polyoxoanions XW&lt;sub&gt;11&lt;/sub&gt;Co (X = Si, P, Co) into ZIF-8 cavities: Pivotal role of central atoms in catalytic performance},\nyear ={2025},\njournal ={Polyoxometalates},\nvolume ={4},\nnumber ={3},\npages ={9140097},\nkeywords ={synthetic encapsulation, electrochemical reduction of carbon dioxide, Keggin, polyoxometalate, ZIF-8},\nurl ={https://www.sciopen.com/article/10.26599/POM.2025.9140097},\ndoi ={10.26599/POM.2025.9140097},\nabstract ={A series of polyoxometalate (POM)-based metal–organic framework composites, XW11Co@ZIF-8 (X = Si, P, Co), were prepared by encapsulating single cobalt-substituted Keggin XW11Co polyoxoanions into the cavities of ZIF-8 at ambient temperature using a synthetic encapsulation strategy. This study investigated the impact of the central atoms in POMs on the electrochemical reduction of carbon dioxide (eCO2RR). The results of the electrochemical test illustrated a significant enhancement in the current densities and eCO2RR performance of the composites compared with pristine ZIF-8. Specifically, CoW11Co@ZIF-8 exhibited 72.4% CO selectivity at a potential of −1.10 V vs. reversible hydrogen electrode (RHE), which was 1.5 times higher than that of ZIF-8 under the same potential. SiW11Co@ZIF-8 and PW11Co@ZIF-8 also exhibited improved electrocatalytic performance, though less pronounced, with faradaic efficiency for CO production (FECO) values of 63.6% and 57.0%, respectively. The central atom in XW11Co significantly affects the catalytic performance of the composites. The [CoIIIW11O39CoII(H2O)]7– species carries more negative charges, enabling the provision of additional electrons to the active sites. Consequently, CoW11Co@ZIF-8 exhibited the highest negative charge and charge transfer efficiency, the largest electrochemically active surface area, and the highest eCO2RR activity.}\n}"
+  },
+  {
+    "doi": "10.26599/POM.2025.9140098",
+    "title": "All-in-one POM-based nanoreactor with oxidase-like activity for versatile detection and antibacterial action",
+    "authors": [
+      {
+        "name": "Yawen Guan"
+      },
+      {
+        "name": "Wei Tang"
+      },
+      {
+        "name": "Yuting Zhao"
+      },
+      {
+        "name": "Shuo Li"
+      },
+      {
+        "name": "Li Wang"
+      },
+      {
+        "name": "Miaomiao Tian"
+      },
+      {
+        "name": "Yanfei Li"
+      },
+      {
+        "name": "Fang Chai"
+      }
+    ],
+    "affiliations": [
+      "Key Laboratory of Photonic and Electronic Bandgap Materials, Ministry of Education,CHINA",
+      "College of Chemistry and Chemical Engineering,CHINA",
+      "Harbin Normal University, 150025,CHINA",
+      "Key Laboratory of Molecular Cytogenetics and Genetic Breeding,CHINA",
+      "College of Life Science and Technology,CHINA",
+      "Harbin Normal University, 150025,CHINA",
+      "Key Laboratory of Photochemical Biomaterials and Energy Storage Materials,CHINA",
+      "College of Chemistry and Chemical Engineering,CHINA",
+      "Harbin Normal University, 150025,CHINA",
+      "Key Laboratory of Photonic and Electronic Bandgap Materials, Ministry of Education,CHINA",
+      "College of Chemistry and Chemical Engineering,CHINA",
+      "Harbin Normal University, 150025,CHINA",
+      "Key Laboratory of Molecular Cytogenetics and Genetic Breeding,CHINA",
+      "College of Life Science and Technology,CHINA",
+      "Harbin Normal University, 150025,CHINA",
+      "Key Laboratory of Photochemical Biomaterials and Energy Storage Materials,CHINA",
+      "College of Chemistry and Chemical Engineering,CHINA",
+      "Harbin Normal University, 150025,CHINA",
+      "Key Laboratory of Photonic and Electronic Bandgap Materials, Ministry of Education,CHINA",
+      "College of Chemistry and Chemical Engineering,CHINA",
+      "Harbin Normal University, 150025,CHINA",
+      "Key Laboratory of Molecular Cytogenetics and Genetic Breeding,CHINA",
+      "College of Life Science and Technology,CHINA",
+      "Harbin Normal University, 150025,CHINA",
+      "Key Laboratory of Photochemical Biomaterials and Energy Storage Materials,CHINA",
+      "College of Chemistry and Chemical Engineering,CHINA",
+      "Harbin Normal University, 150025,CHINA",
+      "Key Laboratory of Photonic and Electronic Bandgap Materials, Ministry of Education,CHINA",
+      "College of Chemistry and Chemical Engineering,CHINA",
+      "Harbin Normal University, 150025,CHINA",
+      "Key Laboratory of Molecular Cytogenetics and Genetic Breeding,CHINA",
+      "College of Life Science and Technology,CHINA",
+      "Harbin Normal University, 150025,CHINA",
+      "Key Laboratory of Photochemical Biomaterials and Energy Storage Materials,CHINA",
+      "College of Chemistry and Chemical Engineering,CHINA",
+      "Harbin Normal University, 150025,CHINA",
+      "Key Laboratory of Photonic and Electronic Bandgap Materials, Ministry of Education,CHINA",
+      "College of Chemistry and Chemical Engineering,CHINA",
+      "Harbin Normal University, 150025,CHINA",
+      "Key Laboratory of Molecular Cytogenetics and Genetic Breeding,CHINA",
+      "College of Life Science and Technology,CHINA",
+      "Harbin Normal University, 150025,CHINA",
+      "Key Laboratory of Photochemical Biomaterials and Energy Storage Materials,CHINA",
+      "College of Chemistry and Chemical Engineering,CHINA",
+      "Harbin Normal University, 150025,CHINA",
+      "Key Laboratory of Photonic and Electronic Bandgap Materials, Ministry of Education,CHINA",
+      "College of Chemistry and Chemical Engineering,CHINA",
+      "Harbin Normal University, 150025,CHINA",
+      "Key Laboratory of Molecular Cytogenetics and Genetic Breeding,CHINA",
+      "College of Life Science and Technology,CHINA",
+      "Harbin Normal University, 150025,CHINA",
+      "Key Laboratory of Photochemical Biomaterials and Energy Storage Materials,CHINA",
+      "College of Chemistry and Chemical Engineering,CHINA",
+      "Harbin Normal University, 150025,CHINA",
+      "Key Laboratory of Photonic and Electronic Bandgap Materials, Ministry of Education,CHINA",
+      "College of Chemistry and Chemical Engineering,CHINA",
+      "Harbin Normal University, 150025,CHINA",
+      "Key Laboratory of Molecular Cytogenetics and Genetic Breeding,CHINA",
+      "College of Life Science and Technology,CHINA",
+      "Harbin Normal University, 150025,CHINA",
+      "Key Laboratory of Photochemical Biomaterials and Energy Storage Materials,CHINA",
+      "College of Chemistry and Chemical Engineering,CHINA",
+      "Harbin Normal University, 150025,CHINA",
+      "Key Laboratory of Photonic and Electronic Bandgap Materials, Ministry of Education,CHINA",
+      "College of Chemistry and Chemical Engineering,CHINA",
+      "Harbin Normal University, 150025,CHINA",
+      "Key Laboratory of Molecular Cytogenetics and Genetic Breeding,CHINA",
+      "College of Life Science and Technology,CHINA",
+      "Harbin Normal University, 150025,CHINA",
+      "Key Laboratory of Photochemical Biomaterials and Energy Storage Materials,CHINA",
+      "College of Chemistry and Chemical Engineering,CHINA",
+      "Harbin Normal University, 150025,CHINA"
+    ],
+    "keywords": [
+      "polyoxometalates",
+      "electrochemical immunosensor",
+      "oxidase activity",
+      "antibacterial performance",
+      "dopamine",
+      "alpha-fetoprotein"
+    ],
+    "abstract": "The accurate identification of disease markers is essential for the early diagnosis and treatment of conditions, particularly tumors such as hepatocellular carcinoma. However, achieving fast and quantitative analysis of disease markers remains a considerable challenge, especially for multivariate testing. Thus, a synergistic multifunctional nanoreactor composed of phosphotungstate (PW12), a metal–organic framework (MOF), and integrated Au nanoparticles (PW12@ZIF-67-Au), was developed as a dual-mode probe, using colorimetric and electrochemical methods to detect dopamine (DA) and alpha-fetoprotein (AFP). The incorporation of MOFs creates a nanoconfined microenvironment that effectively modulates the active sites of POMs, synergistically catalyzing the generation of reactive oxygen species (ROS) and activating oxidase-mimicking activity. This enables both colorimetric and electrochemical sensing, along with antibacterial performance. AFP was detected within a linear range of 0.01–100 ng/mL, with a limit of detection (LOD) of 7.65 pg/mL, while DA was detected from 0.3 to 20 μM with an LOD of 183 nM. Importantly, recovery rates from serum samples were substantial and demonstrated comparable accuracy to clinical enzyme-linked immunosorbent assays. This work not only offers valuable guidelines for creating multifunctional nanoreactors for biosensing and early diagnosis but also lays the foundation for developing a versatile and promising strategy to improve human health.",
+    "volume": "4",
+    "issue": "3",
+    "firstpage": "9140098",
+    "lastpage": "",
+    "year": "2025",
+    "publication_date": "2025/9/30",
+    "online_date": "2025/9/10",
+    "received": "29 April 2025",
+    "revised": "19 June 2025",
+    "accepted": "14 July 2025",
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/POM.2025.9140098",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/POM.2025.9140098.pdf",
+    "internal_id": "",
+    "publisher": "清华大学出版社",
+    "issn": "2957-9821",
+    "language": "en",
+    "bibtex": "@article{Guan2025,\nauthor ={Yawen Guan and Wei Tang and Yuting Zhao and Shuo Li and Li Wang and Miaomiao Tian and Yanfei Li and Fang Chai},\ntitle ={All-in-one POM-based nanoreactor with oxidase-like activity for versatile detection and antibacterial action},\nyear ={2025},\njournal ={Polyoxometalates},\nvolume ={4},\nnumber ={3},\npages ={9140098},\nkeywords ={polyoxometalates, electrochemical immunosensor, oxidase activity, antibacterial performance, dopamine, alpha-fetoprotein},\nurl ={https://www.sciopen.com/article/10.26599/POM.2025.9140098},\ndoi ={10.26599/POM.2025.9140098},\nabstract ={The accurate identification of disease markers is essential for the early diagnosis and treatment of conditions, particularly tumors such as hepatocellular carcinoma. However, achieving fast and quantitative analysis of disease markers remains a considerable challenge, especially for multivariate testing. Thus, a synergistic multifunctional nanoreactor composed of phosphotungstate (PW12), a metal–organic framework (MOF), and integrated Au nanoparticles (PW12@ZIF-67-Au), was developed as a dual-mode probe, using colorimetric and electrochemical methods to detect dopamine (DA) and alpha-fetoprotein (AFP). The incorporation of MOFs creates a nanoconfined microenvironment that effectively modulates the active sites of POMs, synergistically catalyzing the generation of reactive oxygen species (ROS) and activating oxidase-mimicking activity. This enables both colorimetric and electrochemical sensing, along with antibacterial performance. AFP was detected within a linear range of 0.01–100 ng/mL, with a limit of detection (LOD) of 7.65 pg/mL, while DA was detected from 0.3 to 20 μM with an LOD of 183 nM. Importantly, recovery rates from serum samples were substantial and demonstrated comparable accuracy to clinical enzyme-linked immunosorbent assays. This work not only offers valuable guidelines for creating multifunctional nanoreactors for biosensing and early diagnosis but also lays the foundation for developing a versatile and promising strategy to improve human health.}\n}"
+  },
+  {
+    "doi": "10.26599/POM.2025.9140099",
+    "title": "Tuning of the electronic structure of W=O in &lt;i&gt;h&lt;/i&gt;-BN-supported monosubstituted Keggin polyoxotungstate for oxidative desulfurization",
+    "authors": [
+      {
+        "name": "Yu-Han Dong"
+      },
+      {
+        "name": "Qi-Hang Zhou"
+      },
+      {
+        "name": "Ruo-Ting Liu"
+      },
+      {
+        "name": "Ying-Jie Song"
+      },
+      {
+        "name": "Sai-Yu Huang"
+      },
+      {
+        "name": "Jing-Yu Pang"
+      },
+      {
+        "name": "Dong-Bin Dang"
+      },
+      {
+        "name": "Yan Bai"
+      }
+    ],
+    "affiliations": [
+      "Henan Key Laboratory of Polyoxometalate Chemistry,CHINA",
+      "College of Chemistry and Chemical Engineering,CHINA",
+      "Henan University, 475004,CHINA",
+      "State Key Laboratory of Green Chemical Synthesis and Conversion,CHINA",
+      "College of Chemistry and Molecular Sciences,CHINA",
+      "Henan University, 475004,CHINA",
+      "Henan Key Laboratory of Polyoxometalate Chemistry,CHINA",
+      "College of Chemistry and Chemical Engineering,CHINA",
+      "Henan University, 475004,CHINA",
+      "State Key Laboratory of Green Chemical Synthesis and Conversion,CHINA",
+      "College of Chemistry and Molecular Sciences,CHINA",
+      "Henan University, 475004,CHINA",
+      "Department of Chemical and Biochemical Engineering,CANADA",
+      "Western University,CANADA",
+      "Henan Key Laboratory of Polyoxometalate Chemistry,CHINA",
+      "College of Chemistry and Chemical Engineering,CHINA",
+      "Henan University, 475004,CHINA",
+      "State Key Laboratory of Green Chemical Synthesis and Conversion,CHINA",
+      "College of Chemistry and Molecular Sciences,CHINA",
+      "Henan University, 475004,CHINA",
+      "Henan Key Laboratory of Polyoxometalate Chemistry,CHINA",
+      "College of Chemistry and Chemical Engineering,CHINA",
+      "Henan University, 475004,CHINA",
+      "State Key Laboratory of Green Chemical Synthesis and Conversion,CHINA",
+      "College of Chemistry and Molecular Sciences,CHINA",
+      "Henan University, 475004,CHINA",
+      "Henan Key Laboratory of Polyoxometalate Chemistry,CHINA",
+      "College of Chemistry and Chemical Engineering,CHINA",
+      "Henan University, 475004,CHINA",
+      "Department of Chemical and Biochemical Engineering,CANADA",
+      "Western University,CANADA",
+      "State Key Laboratory of Green Chemical Synthesis and Conversion,CHINA",
+      "College of Chemistry and Molecular Sciences,CHINA",
+      "Henan University, 475004,CHINA",
+      "Henan Key Laboratory of Polyoxometalate Chemistry,CHINA",
+      "College of Chemistry and Chemical Engineering,CHINA",
+      "Henan University, 475004,CHINA",
+      "State Key Laboratory of Green Chemical Synthesis and Conversion,CHINA",
+      "College of Chemistry and Molecular Sciences,CHINA",
+      "Henan University, 475004,CHINA",
+      "Henan Key Laboratory of Polyoxometalate Chemistry,CHINA",
+      "College of Chemistry and Chemical Engineering,CHINA",
+      "Henan University, 475004,CHINA",
+      "College of Chemistry and Chemical Engineering,CHINA",
+      "Anyang Normal University, 455000,CHINA",
+      "State Key Laboratory of Green Chemical Synthesis and Conversion,CHINA",
+      "College of Chemistry and Molecular Sciences,CHINA",
+      "Henan University, 475004,CHINA"
+    ],
+    "keywords": [
+      "oxidative desulfurization",
+      "mono-substituted Keggin polyoxometalates",
+      "Ni-substituted catalyst",
+      "boron nitride"
+    ],
+    "abstract": "Oxidative desulfurization (ODS) is a promising strategy for the removal of sulfur compounds from fuel because of its mild conditions and high selectivity. Furthermore, its efficiency may be notably improved through the precise regulation of the microenvironment surrounding the catalytically active sites. In this work, a series of monosubstituted Keggin polyoxometalates incorporating different transition metals (Fe, Co, Ni) were designed and immobilized on the surface of hexagonal boron nitride (h-BN) using ionic liquids ([C4mim]BF4), affording novel supported catalysts for ODS. The Ni-substituted catalyst (PW11Ni-C4/BN) exhibited high activity and excellent recyclability, which was attributed to the specific electronic structure of the W=O active centers and the strong adsorption capability of the h-BN support. Under optimal conditions (catalyst dosage: 20 mg, O/S ratio: 3, temperature: 60 °C, sulfur content: 500 ppm dibenzothiophene (DBT) in n-octane), sulfur was completely removed within 40 min. In addition, mechanistic studies revealed that hydroxyl radicals (·OH) and superoxide radicals (·O2−) collaboratively drive the catalytic reaction.",
+    "volume": "4",
+    "issue": "4",
+    "firstpage": "9140099",
+    "lastpage": "",
+    "year": "2025",
+    "publication_date": "2025/12/1",
+    "online_date": "2025/9/25",
+    "received": "16 May 2025",
+    "revised": "12 July 2025",
+    "accepted": "06 August 2025",
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/POM.2025.9140099",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/POM.2025.9140099.pdf",
+    "internal_id": "",
+    "publisher": "清华大学出版社",
+    "issn": "2957-9821",
+    "language": "en",
+    "bibtex": "@article{Dong2025,\nauthor ={Yu-Han Dong and Qi-Hang Zhou and Ruo-Ting Liu and Ying-Jie Song and Sai-Yu Huang and Jing-Yu Pang and Dong-Bin Dang and Yan Bai},\ntitle ={Tuning of the electronic structure of W=O in &lt;i&gt;h&lt;/i&gt;-BN-supported monosubstituted Keggin polyoxotungstate for oxidative desulfurization},\nyear ={2025},\njournal ={Polyoxometalates},\nvolume ={4},\nnumber ={4},\npages ={9140099},\nkeywords ={oxidative desulfurization, mono-substituted Keggin polyoxometalates, Ni-substituted catalyst, boron nitride},\nurl ={https://www.sciopen.com/article/10.26599/POM.2025.9140099},\ndoi ={10.26599/POM.2025.9140099},\nabstract ={Oxidative desulfurization (ODS) is a promising strategy for the removal of sulfur compounds from fuel because of its mild conditions and high selectivity. Furthermore, its efficiency may be notably improved through the precise regulation of the microenvironment surrounding the catalytically active sites. In this work, a series of monosubstituted Keggin polyoxometalates incorporating different transition metals (Fe, Co, Ni) were designed and immobilized on the surface of hexagonal boron nitride (h-BN) using ionic liquids ([C4mim]BF4), affording novel supported catalysts for ODS. The Ni-substituted catalyst (PW11Ni-C4/BN) exhibited high activity and excellent recyclability, which was attributed to the specific electronic structure of the W=O active centers and the strong adsorption capability of the h-BN support. Under optimal conditions (catalyst dosage: 20 mg, O/S ratio: 3, temperature: 60 °C, sulfur content: 500 ppm dibenzothiophene (DBT) in n-octane), sulfur was completely removed within 40 min. In addition, mechanistic studies revealed that hydroxyl radicals (·OH) and superoxide radicals (·O2−) collaboratively drive the catalytic reaction.}\n}"
+  },
+  {
+    "doi": "10.26599/POM.2025.9140100",
+    "title": "Polyoxometalate hybrid comb-like crosslinked polymer networks for anhydrous proton conductors",
+    "authors": [
+      {
+        "name": "Kewen Fu"
+      },
+      {
+        "name": "Lu Liu"
+      },
+      {
+        "name": "Pengcheng Cui"
+      },
+      {
+        "name": "Xiaojin Yan"
+      },
+      {
+        "name": "Yingying Wang"
+      },
+      {
+        "name": "Kun Chen"
+      }
+    ],
+    "affiliations": [
+      "Guangdong Provincial Key Laboratory of Functional and Intelligent Hybrid Materials and Devices,CHINA",
+      "South China University of Technology,CHINA",
+      "South China Advanced Institute for Soft Matter Science and Technology,CHINA",
+      "School of Emergent Soft Matter,CHINA",
+      "South China University of Technology,CHINA",
+      "Guangdong Provincial Key Laboratory of Functional and Intelligent Hybrid Materials and Devices,CHINA",
+      "South China University of Technology,CHINA",
+      "South China Advanced Institute for Soft Matter Science and Technology,CHINA",
+      "School of Emergent Soft Matter,CHINA",
+      "South China University of Technology,CHINA",
+      "Guangdong Provincial Key Laboratory of Functional and Intelligent Hybrid Materials and Devices,CHINA",
+      "South China University of Technology,CHINA",
+      "South China Advanced Institute for Soft Matter Science and Technology,CHINA",
+      "School of Emergent Soft Matter,CHINA",
+      "South China University of Technology,CHINA",
+      "Guangdong Provincial Key Laboratory of Functional and Intelligent Hybrid Materials and Devices,CHINA",
+      "South China University of Technology,CHINA",
+      "South China Advanced Institute for Soft Matter Science and Technology,CHINA",
+      "School of Emergent Soft Matter,CHINA",
+      "South China University of Technology,CHINA",
+      "Guangdong Provincial Key Laboratory of Functional and Intelligent Hybrid Materials and Devices,CHINA",
+      "South China University of Technology,CHINA",
+      "South China Advanced Institute for Soft Matter Science and Technology,CHINA",
+      "School of Emergent Soft Matter,CHINA",
+      "South China University of Technology,CHINA",
+      "Guangdong Provincial Key Laboratory of Functional and Intelligent Hybrid Materials and Devices,CHINA",
+      "South China University of Technology,CHINA",
+      "South China Advanced Institute for Soft Matter Science and Technology,CHINA",
+      "School of Emergent Soft Matter,CHINA",
+      "South China University of Technology,CHINA"
+    ],
+    "keywords": [
+      "crosslinked networks",
+      "polyoxometalates",
+      "comb-like crosslinker",
+      "supramolecular chemistry",
+      "anhydrous proton conductors"
+    ],
+    "abstract": "The development of proton conductors that demostrate high conductivity with mechanical resilience is critical for advancing energy devices operating under harsh conditions. Polymer nanocomposites offer a promising route to reconcile these competing requirements through strategic material design. In this work, we report an anhydrous proton-conducting nanocomposite composed of a comb-like crosslinked polymer network and superacidic polyoxometalate (POM) clusters. Poly(glycidyl methacrylate) (PGMA) serves as a comb-like scaffold, rapidly crosslinking with amino-terminated polyethylene glycol (PEG-BA) through a simple blending process. The incorporation of H3PW12O40 (PW) functions not only as a proton source but also as a mechanical reinforcer via interfacial interactions. The crosslinked framework provides structural stability, while the compatibility between PW and PEG-BA enables continuous proton-conduction pathways through hydrogen bonding and ionic interactions. The optimized nanocomposite achieves a proton conductivity of 8.5 × 10−4 S·cm−1 at 130 °C and, at the highest crosslinking ratio, a Young’s modulus of 18.1 MPa, along with stable performance over 160 h of extended operation. The modular tunability of both polymer topology and inorganic clusters establishes this approach as a generalizable platform for tailoring ion-transport materials and opens new avenues for high-performance energy technologies.",
+    "volume": "4",
+    "issue": "4",
+    "firstpage": "9140100",
+    "lastpage": "",
+    "year": "2025",
+    "publication_date": "2025/12/1",
+    "online_date": "2025/9/26",
+    "received": "31 May 2025",
+    "revised": "09 August 2025",
+    "accepted": "16 August 2025",
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/POM.2025.9140100",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/POM.2025.9140100.pdf",
+    "internal_id": "",
+    "publisher": "清华大学出版社",
+    "issn": "2957-9821",
+    "language": "en",
+    "bibtex": "@article{Fu2025,\nauthor ={Kewen Fu and Lu Liu and Pengcheng Cui and Xiaojin Yan and Yingying Wang and Kun Chen},\ntitle ={Polyoxometalate hybrid comb-like crosslinked polymer networks for anhydrous proton conductors},\nyear ={2025},\njournal ={Polyoxometalates},\nvolume ={4},\nnumber ={4},\npages ={9140100},\nkeywords ={crosslinked networks, polyoxometalates, comb-like crosslinker, supramolecular chemistry, anhydrous proton conductors},\nurl ={https://www.sciopen.com/article/10.26599/POM.2025.9140100},\ndoi ={10.26599/POM.2025.9140100},\nabstract ={The development of proton conductors that demostrate high conductivity with mechanical resilience is critical for advancing energy devices operating under harsh conditions. Polymer nanocomposites offer a promising route to reconcile these competing requirements through strategic material design. In this work, we report an anhydrous proton-conducting nanocomposite composed of a comb-like crosslinked polymer network and superacidic polyoxometalate (POM) clusters. Poly(glycidyl methacrylate) (PGMA) serves as a comb-like scaffold, rapidly crosslinking with amino-terminated polyethylene glycol (PEG-BA) through a simple blending process. The incorporation of H3PW12O40 (PW) functions not only as a proton source but also as a mechanical reinforcer via interfacial interactions. The crosslinked framework provides structural stability, while the compatibility between PW and PEG-BA enables continuous proton-conduction pathways through hydrogen bonding and ionic interactions. The optimized nanocomposite achieves a proton conductivity of 8.5 × 10−4 S·cm−1 at 130 °C and, at the highest crosslinking ratio, a Young’s modulus of 18.1 MPa, along with stable performance over 160 h of extended operation. The modular tunability of both polymer topology and inorganic clusters establishes this approach as a generalizable platform for tailoring ion-transport materials and opens new avenues for high-performance energy technologies.}\n}"
+  },
+  {
+    "doi": "10.26599/POM.2025.9140101",
+    "title": "Decatungstate-based photocatalysts for organic transformations",
+    "authors": [
+      {
+        "name": "Yurui Li"
+      },
+      {
+        "name": "Zheng Li"
+      },
+      {
+        "name": "Jing Li"
+      },
+      {
+        "name": "Tianfu Liu"
+      },
+      {
+        "name": "Hongjin Lv"
+      },
+      {
+        "name": "Guo-Yu Yang"
+      }
+    ],
+    "affiliations": [
+      "Beijing Key Laboratory of Photoelectric/Electrophotonic Conversion Materials,CHINA",
+      "School of Chemistry and Chemical Engineering,CHINA",
+      "Beijing Institute of Technology, 100081,CHINA",
+      "Beijing Key Laboratory of Photoelectric/Electrophotonic Conversion Materials,CHINA",
+      "School of Chemistry and Chemical Engineering,CHINA",
+      "Beijing Institute of Technology, 100081,CHINA",
+      "Beijing Key Laboratory of Photoelectric/Electrophotonic Conversion Materials,CHINA",
+      "School of Chemistry and Chemical Engineering,CHINA",
+      "Beijing Institute of Technology, 100081,CHINA",
+      "Beijing Key Laboratory of Photoelectric/Electrophotonic Conversion Materials,CHINA",
+      "School of Chemistry and Chemical Engineering,CHINA",
+      "Beijing Institute of Technology, 100081,CHINA",
+      "Tangshan Research Institute,CHINA",
+      "Beijing Institute of Technology, 100081,CHINA",
+      "Beijing Key Laboratory of Photoelectric/Electrophotonic Conversion Materials,CHINA",
+      "School of Chemistry and Chemical Engineering,CHINA",
+      "Beijing Institute of Technology, 100081,CHINA",
+      "Beijing Key Laboratory of Photoelectric/Electrophotonic Conversion Materials,CHINA",
+      "School of Chemistry and Chemical Engineering,CHINA",
+      "Beijing Institute of Technology, 100081,CHINA"
+    ],
+    "keywords": [
+      "polyoxometalates",
+      "decatungstate",
+      "organic transformation",
+      "photocatalysis"
+    ],
+    "abstract": "The functionalization of C−H bonds is critical in organic syntheses. However, their direct functionalization under mild conditions is complicated by their inherent inertness. To address this challenge, decatungstates (W10O324−), as versatile, inexpensive, and easily accessible hydrogen-atom transfer (HAT) photocatalysts, have emerged as powerful catalysts that can activate inert C−H bonds under ultraviolet irradiation to generate carbon-centered radicals for constructing C−C, C−N, C−S, and C−F bonds. This review highlights recent advances in W10O324−-based photocatalysts and their applications in organic transformations. Overall, this article explores various W10O324−-photocatalyzed organic transformations. In addition to summarizing the reported literatures, it critically discusses the current challenges and offers insights for future developments in this promising research field.",
+    "volume": "4",
+    "issue": "4",
+    "firstpage": "9140101",
+    "lastpage": "",
+    "year": "2025",
+    "publication_date": "2025/12/1",
+    "online_date": "2025/9/19",
+    "received": "06 August 2025",
+    "revised": "21 August 2025",
+    "accepted": "21 August 2025",
+    "type": "Review",
+    "url": "https://www.sciopen.com/article/10.26599/POM.2025.9140101",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/POM.2025.9140101.pdf",
+    "internal_id": "",
+    "publisher": "清华大学出版社",
+    "issn": "2957-9821",
+    "language": "en",
+    "bibtex": "@article{Li2025,\nauthor ={Yurui Li and Zheng Li and Jing Li and Tianfu Liu and Hongjin Lv and Guo-Yu Yang},\ntitle ={Decatungstate-based photocatalysts for organic transformations},\nyear ={2025},\njournal ={Polyoxometalates},\nvolume ={4},\nnumber ={4},\npages ={9140101},\nkeywords ={polyoxometalates, decatungstate, organic transformation, photocatalysis},\nurl ={https://www.sciopen.com/article/10.26599/POM.2025.9140101},\ndoi ={10.26599/POM.2025.9140101},\nabstract ={The functionalization of C−H bonds is critical in organic syntheses. However, their direct functionalization under mild conditions is complicated by their inherent inertness. To address this challenge, decatungstates (W10O324−), as versatile, inexpensive, and easily accessible hydrogen-atom transfer (HAT) photocatalysts, have emerged as powerful catalysts that can activate inert C−H bonds under ultraviolet irradiation to generate carbon-centered radicals for constructing C−C, C−N, C−S, and C−F bonds. This review highlights recent advances in W10O324−-based photocatalysts and their applications in organic transformations. Overall, this article explores various W10O324−-photocatalyzed organic transformations. In addition to summarizing the reported literatures, it critically discusses the current challenges and offers insights for future developments in this promising research field.}\n}"
+  },
+  {
+    "doi": "10.26599/POM.2025.9140103",
+    "title": "Overview of organophosphonate covalently modified polyoxometalates: From synthesis and structural diversity to applications",
+    "authors": [
+      {
+        "name": "Hui Kong"
+      },
+      {
+        "name": "Pengtao Ma"
+      },
+      {
+        "name": "Jingping Wang"
+      },
+      {
+        "name": "Jingyang Niu"
+      }
+    ],
+    "affiliations": [
+      "College of Chemistry and Pharmaceutical Engineering,CHINA",
+      "Huanghuai University, 463000,CHINA",
+      "Institute of Molecular and Crystal Engineering,CHINA",
+      "College of Chemistry and Chemical Engineering,CHINA",
+      "Henan University, 475004,CHINA",
+      "Institute of Molecular and Crystal Engineering,CHINA",
+      "College of Chemistry and Chemical Engineering,CHINA",
+      "Henan University, 475004,CHINA",
+      "Institute of Molecular and Crystal Engineering,CHINA",
+      "College of Chemistry and Chemical Engineering,CHINA",
+      "Henan University, 475004,CHINA",
+      "Institute of Molecular and Crystal Engineering,CHINA",
+      "College of Chemistry and Chemical Engineering,CHINA",
+      "Henan University, 475004,CHINA"
+    ],
+    "keywords": [
+      "organophosphonate covalently modified polyoxometalates",
+      "organophosphonic acids",
+      "photochromism",
+      "magnetization",
+      "catalysis"
+    ],
+    "abstract": "In the field of polyoxometalate (POM) chemistry, organophosphonate covalently modified polyoxometalates (OCMPs) have recently emerged as a promising frontier. These hybrid materials not only broaden the structural diversity of conventional POM derivatives and address the inherent stability limitations of POMs, but also allow for the design of improved properties tailored to diverse applications. Despite this growing interest, a systematic review dedicated to OCMPs is still lacking. This review provides a comprehensive summary of recent advances in OCMP research, with a particular focus on their structural features, functional properties, and prospective research directions.",
+    "volume": "4",
+    "issue": "4",
+    "firstpage": "9140103",
+    "lastpage": "",
+    "year": "2025",
+    "publication_date": "2025/12/1",
+    "online_date": "2025/10/19",
+    "received": "16 May 2025",
+    "revised": "18 September 2025",
+    "accepted": "23 September 2025",
+    "type": "Review",
+    "url": "https://www.sciopen.com/article/10.26599/POM.2025.9140103",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/POM.2025.9140103.pdf",
+    "internal_id": "",
+    "publisher": "清华大学出版社",
+    "issn": "2957-9821",
+    "language": "en",
+    "bibtex": "@article{Kong2025,\nauthor ={Hui Kong and Pengtao Ma and Jingping Wang and Jingyang Niu},\ntitle ={Overview of organophosphonate covalently modified polyoxometalates: From synthesis and structural diversity to applications},\nyear ={2025},\njournal ={Polyoxometalates},\nvolume ={4},\nnumber ={4},\npages ={9140103},\nkeywords ={organophosphonate covalently modified polyoxometalates, organophosphonic acids, photochromism, magnetization, catalysis},\nurl ={https://www.sciopen.com/article/10.26599/POM.2025.9140103},\ndoi ={10.26599/POM.2025.9140103},\nabstract ={In the field of polyoxometalate (POM) chemistry, organophosphonate covalently modified polyoxometalates (OCMPs) have recently emerged as a promising frontier. These hybrid materials not only broaden the structural diversity of conventional POM derivatives and address the inherent stability limitations of POMs, but also allow for the design of improved properties tailored to diverse applications. Despite this growing interest, a systematic review dedicated to OCMPs is still lacking. This review provides a comprehensive summary of recent advances in OCMP research, with a particular focus on their structural features, functional properties, and prospective research directions.}\n}"
+  },
+  {
+    "doi": "10.26599/POM.2025.9140104",
+    "title": "Evaluation of antiviral activity of organic–polyoxometalate hybrids based on berberine against encephalomyocarditis virus &lt;i&gt;in vitro&lt;/i&gt;",
+    "authors": [
+      {
+        "name": "Chunxia Tan"
+      },
+      {
+        "name": "Jieying Zhao"
+      },
+      {
+        "name": "Zizhen Huang"
+      },
+      {
+        "name": "Jixia Hou"
+      },
+      {
+        "name": "Tengyu Zhang"
+      },
+      {
+        "name": "Jingying Xie"
+      },
+      {
+        "name": "Ruofei Feng"
+      }
+    ],
+    "affiliations": [
+      "Gansu University of Chinese Medicine,Lanzhou,Gansu,CHINA",
+      "Gansu University of Chinese Medicine,Lanzhou,Gansu,CHINA",
+      "Gansu University of Chinese Medicine,Lanzhou,Gansu,CHINA",
+      "Gansu University of Chinese Medicine,Lanzhou,Gansu,CHINA",
+      "Gansu University of Chinese Medicine,Lanzhou,Gansu,CHINA",
+      "Key Laboratory of Biotechnology and Bioengineering of State Ethnic Affairs Commission,CHINA",
+      "Biomedical Research Center,CHINA",
+      "Northwest Minzu University,CHINA",
+      "Key Laboratory of Biotechnology and Bioengineering of State Ethnic Affairs Commission,CHINA",
+      "Biomedical Research Center,CHINA",
+      "Northwest Minzu University,CHINA"
+    ],
+    "keywords": [
+      "polyoxometalates",
+      "berberine",
+      "antiviral activity",
+      "BHK-21",
+      "biosynthesis stage",
+      "encephalomyocarditis virus (EMCV)"
+    ],
+    "abstract": "Polyoxometalates are promising inorganic drugs with antiviral activity. However, they pose a risk to human because of their potential accumulation in the body. Polyoxometalates encapsulated with berberine from a traditional Chinese herb may exhibit lower cytotoxicity. In this study, the antiviral effects of four berberine-based organic–polyoxometalate hybrids (BR-POMs) on BHK-21 and PK-15 cells were evaluated in vitro using encephalomyocarditis virus (EMCV) or pseudorabies virus (PRV) models. The collected cells were used for quantitative polymerase chain reaction analysis. The supernatants were collected to quantify the viral loads using a tissue culture infectious dose (TCID50) assay in vitro. EC50 and CC50 were determined through dose–response experiments, and the EC50/CC50 ratio was used as a selectivity index to measure the antiviral activity. The results demonstrate that all BR-POMs exhibited certain antiviral activity. The BR-POMs did not exert toxicity against the EMCV- or PRV-infected cells at the tested concentration (CC50 > 40 μM). Notably, BR-EuSiW (EC50 15.07 μM, CC50 651.2 µM, SI 43.21) exerted antiviral effects by acting on the virus at its biosynthesis stage, thereby inhibiting virus proliferation in a dose-dependent manner. This study demonstrates that organic–polyoxometalate hybrids represent a new strategy for developing antivirals against EMCV.",
+    "volume": "4",
+    "issue": "4",
+    "firstpage": "9140104",
+    "lastpage": "",
+    "year": "2025",
+    "publication_date": "2025/12/1",
+    "online_date": "2025/12/15",
+    "received": "24 July 2025",
+    "revised": "23 October 2025",
+    "accepted": "08 November 2025",
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/POM.2025.9140104",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/POM.2025.9140104.pdf",
+    "internal_id": "",
+    "publisher": "清华大学出版社",
+    "issn": "2957-9821",
+    "language": "en",
+    "bibtex": "@article{Tan2025,\nauthor ={Chunxia Tan and Jieying Zhao and Zizhen Huang and Jixia Hou and Tengyu Zhang and Jingying Xie and Ruofei Feng},\ntitle ={Evaluation of antiviral activity of organic–polyoxometalate hybrids based on berberine against encephalomyocarditis virus &lt;i&gt;in vitro&lt;/i&gt;},\nyear ={2025},\njournal ={Polyoxometalates},\nvolume ={4},\nnumber ={4},\npages ={9140104},\nkeywords ={polyoxometalates, berberine, antiviral activity, BHK-21, biosynthesis stage, encephalomyocarditis virus (EMCV)},\nurl ={https://www.sciopen.com/article/10.26599/POM.2025.9140104},\ndoi ={10.26599/POM.2025.9140104},\nabstract ={Polyoxometalates are promising inorganic drugs with antiviral activity. However, they pose a risk to human because of their potential accumulation in the body. Polyoxometalates encapsulated with berberine from a traditional Chinese herb may exhibit lower cytotoxicity. In this study, the antiviral effects of four berberine-based organic–polyoxometalate hybrids (BR-POMs) on BHK-21 and PK-15 cells were evaluated in vitro using encephalomyocarditis virus (EMCV) or pseudorabies virus (PRV) models. The collected cells were used for quantitative polymerase chain reaction analysis. The supernatants were collected to quantify the viral loads using a tissue culture infectious dose (TCID50) assay in vitro. EC50 and CC50 were determined through dose–response experiments, and the EC50/CC50 ratio was used as a selectivity index to measure the antiviral activity. The results demonstrate that all BR-POMs exhibited certain antiviral activity. The BR-POMs did not exert toxicity against the EMCV- or PRV-infected cells at the tested concentration (CC50 > 40 μM). Notably, BR-EuSiW (EC50 15.07 μM, CC50 651.2 µM, SI 43.21) exerted antiviral effects by acting on the virus at its biosynthesis stage, thereby inhibiting virus proliferation in a dose-dependent manner. This study demonstrates that organic–polyoxometalate hybrids represent a new strategy for developing antivirals against EMCV.}\n}"
+  },
+  {
+    "doi": "10.26599/POM.2025.9140105",
+    "title": "Hierarchical bimetallic electrocatalysts derived from polyoxometalate for hydrogen evolution reaction",
+    "authors": [
+      {
+        "name": "Shuai Liu"
+      },
+      {
+        "name": "Yingchao Zhang"
+      },
+      {
+        "name": "Qing qing Pan"
+      },
+      {
+        "name": "Jiao Li"
+      },
+      {
+        "name": "Xiao Li"
+      },
+      {
+        "name": "Zhongmin Su"
+      }
+    ],
+    "affiliations": [
+      "Jilin Provincial International Joint Research Center of Photo-functional Materials and Chemistry,CHINA",
+      "Changchun University of Science and Technology, 130022,CHINA",
+      "Shandong Province Engineering Research Center for Future Industries of Key Materials in Optoelectronics,Shandong,CHINA",
+      "College of Chemical Engineering and Environment,Shandong,CHINA",
+      "Weifang University of Science and Technology,Weifang,Shandong,CHINA",
+      "Jilin Provincial International Joint Research Center of Photo-functional Materials and Chemistry,CHINA",
+      "Changchun University of Science and Technology, 130022,CHINA",
+      "School of Materials Science and Engineering,Changchun,Jilin,CHINA",
+      "Jilin Jianzhu University,Changchun,Jilin,CHINA",
+      "Jilin Provincial International Joint Research Center of Photo-functional Materials and Chemistry,CHINA",
+      "Changchun University of Science and Technology, 130022,CHINA",
+      "Jilin Provincial International Joint Research Center of Photo-functional Materials and Chemistry,CHINA",
+      "Changchun University of Science and Technology, 130022,CHINA"
+    ],
+    "keywords": [
+      "molybdenum carbide",
+      "bimetallic electrocatalysts",
+      "hydrogen evolution reaction (HER)",
+      "density functional theory (DFT)"
+    ],
+    "abstract": "The development of cost-effective and stable electrocatalysts using electrochemical energy conversion systems is an effective strategy for enhancing the efficiency of energy production. In this study, we propose a straightforward one-step synthetic method for fabricating an efficient bimetallic hydrogen evolution electrocatalyst, named Co/Mo2C@NC. Co/Mo2C@NC exhibits excellent catalytic activity in basic and acidic electrolytes with overpotentials (η10) of 115 and 121 mV, respectively. Furthermore, Co/Mo2C@NC exhibits good stability, maintaining its performance for over 100 h. Density functional theory calculations demonstrate that the C atoms on Mo2C provide the best catalytic active sites, with the Gibbs free energy of hydrogen adsorption approaching 0 eV. Furthermore, Mo2C possesses exceptional mechanical properties, ensuring the durability of the catalyst during the hydrogen evolution reaction. This study holds experimental significance for developing simple bimetallic electrocatalysts to improve the slow kinetics of the hydrogen evolution reaction.",
+    "volume": "4",
+    "issue": "4",
+    "firstpage": "9140105",
+    "lastpage": "",
+    "year": "2025",
+    "publication_date": "2025/12/1",
+    "online_date": "2025/12/15",
+    "received": "06 May 2025",
+    "revised": "07 November 2025",
+    "accepted": "10 November 2025",
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/POM.2025.9140105",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/POM.2025.9140105.pdf",
+    "internal_id": "",
+    "publisher": "清华大学出版社",
+    "issn": "2957-9821",
+    "language": "en",
+    "bibtex": "@article{Liu2025,\nauthor ={Shuai Liu and Yingchao Zhang and Qing qing Pan and Jiao Li and Xiao Li and Zhongmin Su},\ntitle ={Hierarchical bimetallic electrocatalysts derived from polyoxometalate for hydrogen evolution reaction},\nyear ={2025},\njournal ={Polyoxometalates},\nvolume ={4},\nnumber ={4},\npages ={9140105},\nkeywords ={molybdenum carbide, bimetallic electrocatalysts, hydrogen evolution reaction (HER), density functional theory (DFT)},\nurl ={https://www.sciopen.com/article/10.26599/POM.2025.9140105},\ndoi ={10.26599/POM.2025.9140105},\nabstract ={The development of cost-effective and stable electrocatalysts using electrochemical energy conversion systems is an effective strategy for enhancing the efficiency of energy production. In this study, we propose a straightforward one-step synthetic method for fabricating an efficient bimetallic hydrogen evolution electrocatalyst, named Co/Mo2C@NC. Co/Mo2C@NC exhibits excellent catalytic activity in basic and acidic electrolytes with overpotentials (η10) of 115 and 121 mV, respectively. Furthermore, Co/Mo2C@NC exhibits good stability, maintaining its performance for over 100 h. Density functional theory calculations demonstrate that the C atoms on Mo2C provide the best catalytic active sites, with the Gibbs free energy of hydrogen adsorption approaching 0 eV. Furthermore, Mo2C possesses exceptional mechanical properties, ensuring the durability of the catalyst during the hydrogen evolution reaction. This study holds experimental significance for developing simple bimetallic electrocatalysts to improve the slow kinetics of the hydrogen evolution reaction.}\n}"
+  },
+  {
+    "doi": "10.26599/POM.2025.9140106",
+    "title": "Fluorescence-active nanorod-like triads assembled from organically-derivatized polyoxometalates",
+    "authors": [
+      {
+        "name": "Chun-Lin Lv"
+      },
+      {
+        "name": "Meng-Yuan Cheng"
+      },
+      {
+        "name": "Jian Hao"
+      },
+      {
+        "name": "Nasim Khan Naumaan Rao"
+      },
+      {
+        "name": "Yongge Wei"
+      }
+    ],
+    "affiliations": [
+      "School of Pharmacy,CHINA",
+      "Minzu University of China, 100081,CHINA",
+      "Key Lab of Organic Optoelectronics &amp; Molecular Engineering of Ministry of Education,CHINA",
+      "Department of Chemistry,CHINA",
+      "Tsinghua University, 100084,CHINA",
+      "School of Pharmacy,CHINA",
+      "Minzu University of China, 100081,CHINA",
+      "Key Lab of Organic Optoelectronics &amp; Molecular Engineering of Ministry of Education,CHINA",
+      "Department of Chemistry,CHINA",
+      "Tsinghua University, 100084,CHINA",
+      "Key Lab of Organic Optoelectronics &amp; Molecular Engineering of Ministry of Education,CHINA",
+      "Department of Chemistry,CHINA",
+      "Tsinghua University, 100084,CHINA",
+      "Key Lab of Organic Optoelectronics &amp; Molecular Engineering of Ministry of Education,CHINA",
+      "Department of Chemistry,CHINA",
+      "Tsinghua University, 100084,CHINA"
+    ],
+    "keywords": [
+      "polyoxometalate",
+      "nanorod-like triads",
+      "fluorescence",
+      "coordination",
+      "self-assembly"
+    ],
+    "abstract": "Two monosubstituted organoimido hexamolybdates containing isoquinoline or quinoline were successfully synthesized. Through the coordination driving of silver(I) ions, the obtained organoimido-derivatized hexamolybdates can assemble with β-octamolybdate in a controlled manner to form nanorod-like triads. Unlike the isolated polyoxometalates before assembly, nanosized polyoxometalate assemblies can exhibit interesting fluorescence activities.",
+    "volume": "4",
+    "issue": "4",
+    "firstpage": "9140106",
+    "lastpage": "",
+    "year": "2025",
+    "publication_date": "2025/12/1",
+    "online_date": "2025/12/23",
+    "received": "29 October 2025",
+    "revised": "03 December 2025",
+    "accepted": "04 December 2025",
+    "type": "Communication",
+    "url": "https://www.sciopen.com/article/10.26599/POM.2025.9140106",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/POM.2025.9140106.pdf",
+    "internal_id": "",
+    "publisher": "清华大学出版社",
+    "issn": "2957-9821",
+    "language": "en",
+    "bibtex": "@article{Lv2025,\nauthor ={Chun-Lin Lv and Meng-Yuan Cheng and Jian Hao and Nasim Khan Naumaan Rao and Yongge Wei},\ntitle ={Fluorescence-active nanorod-like triads assembled from organically-derivatized polyoxometalates},\nyear ={2025},\njournal ={Polyoxometalates},\nvolume ={4},\nnumber ={4},\npages ={9140106},\nkeywords ={polyoxometalate, nanorod-like triads, fluorescence, coordination, self-assembly},\nurl ={https://www.sciopen.com/article/10.26599/POM.2025.9140106},\ndoi ={10.26599/POM.2025.9140106},\nabstract ={Two monosubstituted organoimido hexamolybdates containing isoquinoline or quinoline were successfully synthesized. Through the coordination driving of silver(I) ions, the obtained organoimido-derivatized hexamolybdates can assemble with β-octamolybdate in a controlled manner to form nanorod-like triads. Unlike the isolated polyoxometalates before assembly, nanosized polyoxometalate assemblies can exhibit interesting fluorescence activities.}\n}"
+  },
+  {
+    "doi": "10.26599/POM.2025.9140107",
+    "title": "Platinum-containing isopolytungstates: [Pt&lt;sub&gt;3&lt;/sub&gt;W&lt;sub&gt;11&lt;/sub&gt;O&lt;sub&gt;41&lt;/sub&gt;]&lt;sup&gt;6.4−&lt;/sup&gt; with a linear {Pt&lt;sub&gt;3&lt;/sub&gt;O&lt;sub&gt;12&lt;/sub&gt;} triad, [Pt&lt;sup&gt;II&lt;/sup&gt;&lt;sub&gt;2&lt;/sub&gt;W&lt;sub&gt;5&lt;/sub&gt;O&lt;sub&gt;18&lt;/sub&gt;((CH&lt;sub&gt;3&lt;/sub&gt;)&lt;sub&gt;2&lt;/sub&gt;AsO&lt;sub&gt;2&lt;/sub&gt;)&lt;sub&gt;2&lt;/sub&gt;]&lt;sup&gt;4−&lt;/sup&gt; and [Pt&lt;sup&gt;III&lt;/sup&gt;&lt;sub&gt;2&lt;/sub&gt;W&lt;sub&gt;5&lt;/sub&gt;O&lt;sub&gt;18&lt;/sub&gt;((CH&lt;sub&gt;3&lt;/sub&gt;)&lt;sub&gt;2&lt;/sub&gt;AsO&lt;sub&gt;2&lt;/sub&gt;)&lt;sub&gt;4&lt;/sub&gt;]&lt;sup&gt;4−&lt;/sup&gt; featuring direct Pt–Pt bonds",
+    "authors": [
+      {
+        "name": "Jiayao Zhang"
+      },
+      {
+        "name": "Saurav Bhattacharya"
+      },
+      {
+        "name": "Mahmoud Elcheikh Mahmoud"
+      },
+      {
+        "name": "Talha Nisar"
+      },
+      {
+        "name": "Khaoula Merimi"
+      },
+      {
+        "name": "Xavier López"
+      },
+      {
+        "name": "Josep M. Poblet"
+      },
+      {
+        "name": "Veit Wagner"
+      },
+      {
+        "name": "Ulrich Kortz"
+      }
+    ],
+    "affiliations": [
+      "School of Science,GERMANY",
+      "Constructor University,GERMANY",
+      "School of Science,GERMANY",
+      "Constructor University,GERMANY",
+      "Department of Chemistry,INDIA",
+      "BITS Pilani K K Birla Goa Campus,INDIA",
+      "School of Science,GERMANY",
+      "Constructor University,GERMANY",
+      "School of Science,GERMANY",
+      "Constructor University,GERMANY",
+      "Universitat Rovira i Virgili,SPAIN",
+      "Departament de Química Física i Inorgànica,SPAIN",
+      "Universitat Rovira i Virgili,SPAIN",
+      "Departament de Química Física i Inorgànica,SPAIN",
+      "Universitat Rovira i Virgili,SPAIN",
+      "Departament de Química Física i Inorgànica,SPAIN",
+      "School of Science,GERMANY",
+      "Constructor University,GERMANY",
+      "School of Science,GERMANY",
+      "Constructor University,GERMANY"
+    ],
+    "keywords": [
+      "polyoxometalates",
+      "platinum",
+      "Pt–Pt bond",
+      "hydrogenation catalysis",
+      "mixed-valence compounds",
+      "quantum mechanical calculations"
+    ],
+    "abstract": "The platinum-containing isopolytungstates [Pt3W11O41]6.4− (Pt3W11), [PtII2W5O18((CH3)2AsO2)2]4− (PtII2W5), and [PtIII2W5O18((CH3)2AsO2)4]4− (PtIII2W5) were synthesized in aqueous media and characterized via single-crystal X-ray diffraction and multinuclear (195Pt, 13C, and 1H) nuclear magnetic resonance (NMR) spectroscopy. The polyanion [Pt3W11O41]6.4− comprises three {W3O13} and one {W2O10} fragments connected via three platinum atoms forming a linear {Pt3O12} triad that exhibit direct Pt–Pt bonding (2.64–2.68 Å). The distances between the two outer Pt ions and oxygens from neighboring Pt3W11 clusters (2.34 and 2.65 Å) are consistent with [4+1] coordination. Quantum mechanical calculations enabled the assignment of Pt oxidation states for the mixed-valence polyanion Pt3W11. The polyanion PtII2W5 contains a monolacunary {W5O18}6− Lindqvist fragment coordinated via two PtII ions in square-planar geometry and two terminal dimethylarsinate groups, exhibiting a 195Pt NMR signal at 610 ppm in water. By contrast, PtIII2W5 comprises two PtIII ions with square-pyramidal coordination and direct Pt–Pt bonding (2.64 Å). The polyanions Pt3W11 and PtII2W5 were immobilized on SBA-15-apts and then tested as precatalysts for the hydrogenation of o-xylene under continuous-flow, high-pressure conditions.",
+    "volume": "4",
+    "issue": "4",
+    "firstpage": "9140107",
+    "lastpage": "",
+    "year": "2025",
+    "publication_date": "2025/12/1",
+    "online_date": "2025/12/29",
+    "received": "08 November 2025",
+    "revised": "07 December 2025",
+    "accepted": "07 December 2025",
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.26599/POM.2025.9140107",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/POM.2025.9140107.pdf",
+    "internal_id": "",
+    "publisher": "清华大学出版社",
+    "issn": "2957-9821",
+    "language": "en",
+    "bibtex": "@article{Zhang2025,\nauthor ={Jiayao Zhang and Saurav Bhattacharya and Mahmoud Elcheikh Mahmoud and Talha Nisar and Khaoula Merimi and Xavier López and Josep M. Poblet and Veit Wagner and Ulrich Kortz},\ntitle ={Platinum-containing isopolytungstates: [Pt&lt;sub&gt;3&lt;/sub&gt;W&lt;sub&gt;11&lt;/sub&gt;O&lt;sub&gt;41&lt;/sub&gt;]&lt;sup&gt;6.4−&lt;/sup&gt; with a linear {Pt&lt;sub&gt;3&lt;/sub&gt;O&lt;sub&gt;12&lt;/sub&gt;} triad, [Pt&lt;sup&gt;II&lt;/sup&gt;&lt;sub&gt;2&lt;/sub&gt;W&lt;sub&gt;5&lt;/sub&gt;O&lt;sub&gt;18&lt;/sub&gt;((CH&lt;sub&gt;3&lt;/sub&gt;)&lt;sub&gt;2&lt;/sub&gt;AsO&lt;sub&gt;2&lt;/sub&gt;)&lt;sub&gt;2&lt;/sub&gt;]&lt;sup&gt;4−&lt;/sup&gt; and [Pt&lt;sup&gt;III&lt;/sup&gt;&lt;sub&gt;2&lt;/sub&gt;W&lt;sub&gt;5&lt;/sub&gt;O&lt;sub&gt;18&lt;/sub&gt;((CH&lt;sub&gt;3&lt;/sub&gt;)&lt;sub&gt;2&lt;/sub&gt;AsO&lt;sub&gt;2&lt;/sub&gt;)&lt;sub&gt;4&lt;/sub&gt;]&lt;sup&gt;4−&lt;/sup&gt; featuring direct Pt–Pt bonds},\nyear ={2025},\njournal ={Polyoxometalates},\nvolume ={4},\nnumber ={4},\npages ={9140107},\nkeywords ={polyoxometalates, platinum, Pt–Pt bond, hydrogenation catalysis, mixed-valence compounds, quantum mechanical calculations},\nurl ={https://www.sciopen.com/article/10.26599/POM.2025.9140107},\ndoi ={10.26599/POM.2025.9140107},\nabstract ={The platinum-containing isopolytungstates [Pt3W11O41]6.4− (Pt3W11), [PtII2W5O18((CH3)2AsO2)2]4− (PtII2W5), and [PtIII2W5O18((CH3)2AsO2)4]4− (PtIII2W5) were synthesized in aqueous media and characterized via single-crystal X-ray diffraction and multinuclear (195Pt, 13C, and 1H) nuclear magnetic resonance (NMR) spectroscopy. The polyanion [Pt3W11O41]6.4− comprises three {W3O13} and one {W2O10} fragments connected via three platinum atoms forming a linear {Pt3O12} triad that exhibit direct Pt–Pt bonding (2.64–2.68 Å). The distances between the two outer Pt ions and oxygens from neighboring Pt3W11 clusters (2.34 and 2.65 Å) are consistent with [4+1] coordination. Quantum mechanical calculations enabled the assignment of Pt oxidation states for the mixed-valence polyanion Pt3W11. The polyanion PtII2W5 contains a monolacunary {W5O18}6− Lindqvist fragment coordinated via two PtII ions in square-planar geometry and two terminal dimethylarsinate groups, exhibiting a 195Pt NMR signal at 610 ppm in water. By contrast, PtIII2W5 comprises two PtIII ions with square-pyramidal coordination and direct Pt–Pt bonding (2.64 Å). The polyanions Pt3W11 and PtII2W5 were immobilized on SBA-15-apts and then tested as precatalysts for the hydrogenation of o-xylene under continuous-flow, high-pressure conditions.}\n}"
+  }
+]
