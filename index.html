@@ -736,8 +736,7 @@ function render() {
         </div>
         ${a.abstract ? `<div class="d-abstract"><strong>Abstract:</strong> ${highlight(a.abstract.replace(/<[^>]+>/g, ''), currentQuery)}</div>` : ''}
         <div class="d-links">
-          ${a.url ? `<a href="${a.url}" target="_blank" onclick="event.stopPropagation()">View on SciOpen →</a>` : ''}
-          ${a.pdf ? `<a href="${a.pdf}" target="_blank" onclick="event.stopPropagation()">Download PDF →</a>` : ''}
+                    ${a.pdf ? `<a href="${a.pdf}" target="_blank" onclick="event.stopPropagation()">Download PDF →</a>` : ''}
         </div>
       </div>
     </div>`;
