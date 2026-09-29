@@ -633,7 +633,7 @@ function highlight(text, query) {
   if (!query || !text) return esc(text || '');
   const tokens = [...new Set(query.trim().split(/\s+/).filter(Boolean))]
     .sort((a, b) => b.length - a.length)
-    .map(tok => tok.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'));
+    .map(tok => tok.replace(/[.*+?^${}()|[\]\\]/g, '\$&'));
   if (tokens.length === 0) return esc(text);
   const combinedRe = new RegExp('(' + tokens.join('|') + ')', 'gi');
   const parts = esc(text).split(/(<[^>]*>)/);
